@@ -1,0 +1,3 @@
+../Core/Src/DHT.c:8:13:goToOutput	48	static
+../Core/Src/DHT.c:27:13:goToInput	48	static
+../Core/Src/DHT.c:41:10:DHT_getData	56	static

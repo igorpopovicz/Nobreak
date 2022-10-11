@@ -1,0 +1,1352 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/popovicz/Documentos/nobreak_controle/Core/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+ABS	Src/ssd1306.c	/^#define ABS(/;"	d	file:
+ADD_DNS1	Src/main.c	/^#define ADD_DNS1 /;"	d	file:
+ADD_DNS2	Src/main.c	/^#define ADD_DNS2 /;"	d	file:
+ADD_DNS3	Src/main.c	/^#define ADD_DNS3 /;"	d	file:
+ADD_DNS4	Src/main.c	/^#define ADD_DNS4 /;"	d	file:
+ADD_DOM1	Src/main.c	/^#define ADD_DOM1 /;"	d	file:
+ADD_DOM2	Src/main.c	/^#define ADD_DOM2 /;"	d	file:
+ADD_DOM3	Src/main.c	/^#define ADD_DOM3 /;"	d	file:
+ADD_DOM4	Src/main.c	/^#define ADD_DOM4 /;"	d	file:
+ADD_DOM5	Src/main.c	/^#define ADD_DOM5 /;"	d	file:
+ADD_DOM6	Src/main.c	/^#define ADD_DOM6 /;"	d	file:
+ADD_DOM7	Src/main.c	/^#define ADD_DOM7 /;"	d	file:
+ADD_DOM8	Src/main.c	/^#define ADD_DOM8 /;"	d	file:
+ADD_DOM9	Src/main.c	/^#define ADD_DOM9 /;"	d	file:
+ADD_DOMA	Src/main.c	/^#define ADD_DOMA /;"	d	file:
+ADD_DOMB	Src/main.c	/^#define ADD_DOMB /;"	d	file:
+ADD_DOMC	Src/main.c	/^#define ADD_DOMC /;"	d	file:
+ADD_DOMD	Src/main.c	/^#define ADD_DOMD /;"	d	file:
+ADD_DOME	Src/main.c	/^#define ADD_DOME /;"	d	file:
+ADD_DOMF	Src/main.c	/^#define ADD_DOMF /;"	d	file:
+ADD_DOMG	Src/main.c	/^#define ADD_DOMG /;"	d	file:
+ADD_DOMH	Src/main.c	/^#define ADD_DOMH /;"	d	file:
+ADD_DOMI	Src/main.c	/^#define ADD_DOMI /;"	d	file:
+ADD_DOMJ	Src/main.c	/^#define ADD_DOMJ /;"	d	file:
+ADD_DOMK	Src/main.c	/^#define ADD_DOMK /;"	d	file:
+ADD_DOML	Src/main.c	/^#define ADD_DOML /;"	d	file:
+ADD_DOMM	Src/main.c	/^#define ADD_DOMM /;"	d	file:
+ADD_DOMN	Src/main.c	/^#define ADD_DOMN /;"	d	file:
+ADD_DOMO	Src/main.c	/^#define ADD_DOMO /;"	d	file:
+ADD_DOMP	Src/main.c	/^#define ADD_DOMP /;"	d	file:
+ADD_DOMQ	Src/main.c	/^#define ADD_DOMQ /;"	d	file:
+ADD_DOMR	Src/main.c	/^#define ADD_DOMR /;"	d	file:
+ADD_DOMS	Src/main.c	/^#define ADD_DOMS /;"	d	file:
+ADD_GW1	Src/main.c	/^#define ADD_GW1 /;"	d	file:
+ADD_GW2	Src/main.c	/^#define ADD_GW2 /;"	d	file:
+ADD_GW3	Src/main.c	/^#define ADD_GW3 /;"	d	file:
+ADD_GW4	Src/main.c	/^#define ADD_GW4 /;"	d	file:
+ADD_IDT1	Src/main.c	/^#define ADD_IDT1 /;"	d	file:
+ADD_IDT2	Src/main.c	/^#define ADD_IDT2 /;"	d	file:
+ADD_IPL1	Src/main.c	/^#define ADD_IPL1 /;"	d	file:
+ADD_IPL2	Src/main.c	/^#define ADD_IPL2 /;"	d	file:
+ADD_IPL3	Src/main.c	/^#define ADD_IPL3 /;"	d	file:
+ADD_IPL4	Src/main.c	/^#define ADD_IPL4 /;"	d	file:
+ADD_IPS1	Src/main.c	/^#define ADD_IPS1 /;"	d	file:
+ADD_IPS2	Src/main.c	/^#define ADD_IPS2 /;"	d	file:
+ADD_IPS3	Src/main.c	/^#define ADD_IPS3 /;"	d	file:
+ADD_IPS4	Src/main.c	/^#define ADD_IPS4 /;"	d	file:
+ADD_ISD	Src/main.c	/^#define ADD_ISD /;"	d	file:
+ADD_KEY1	Src/main.c	/^#define ADD_KEY1 /;"	d	file:
+ADD_KEY2	Src/main.c	/^#define ADD_KEY2 /;"	d	file:
+ADD_MK1	Src/main.c	/^#define ADD_MK1 /;"	d	file:
+ADD_MK2	Src/main.c	/^#define ADD_MK2 /;"	d	file:
+ADD_MK3	Src/main.c	/^#define ADD_MK3 /;"	d	file:
+ADD_MK4	Src/main.c	/^#define ADD_MK4 /;"	d	file:
+ADD_PORTL1	Src/main.c	/^#define ADD_PORTL1 /;"	d	file:
+ADD_PORTL2	Src/main.c	/^#define ADD_PORTL2 /;"	d	file:
+ADD_PORTS1	Src/main.c	/^#define ADD_PORTS1 /;"	d	file:
+ADD_PORTS2	Src/main.c	/^#define ADD_PORTS2 /;"	d	file:
+ADD_TDOM	Src/main.c	/^#define ADD_TDOM /;"	d	file:
+ADD_TIMEOUT	Src/main.c	/^#define ADD_TIMEOUT /;"	d	file:
+AGAIN	Src/dns.c	/^#define	AGAIN	/;"	d	file:
+AHBCLKDivider	Inc/stm32g0xx_ll_utils.h	/^  uint32_t AHBCLKDivider;         \/*!< The AHB clock (HCLK) divider. This clock is derived from/;"	m	struct:__anonb47e868b0208	typeref:typename:uint32_t
+AHBPrescTable	Src/system_stm32g0xx.c	/^  const uint32_t AHBPrescTable[16UL] = {0UL, 0UL, 0UL, 0UL, 0UL, 0UL, 0UL, 0UL, 1UL, 2UL, 3UL, 4/;"	v	typeref:typename:const uint32_t[16UL]
+APB1CLKDivider	Inc/stm32g0xx_ll_utils.h	/^  uint32_t APB1CLKDivider;        \/*!< The APB1 clock (PCLK1) divider. This clock is derived fr/;"	m	struct:__anonb47e868b0208	typeref:typename:uint32_t
+APBPrescTable	Src/system_stm32g0xx.c	/^  const uint32_t APBPrescTable[8UL] =  {0UL, 0UL, 0UL, 0UL, 1UL, 2UL, 3UL, 4UL};$/;"	v	typeref:typename:const uint32_t[8UL]
+ATOI	Src/httpParser.c	/^uint16_t ATOI($/;"	f	typeref:typename:uint16_t
+BUFPUB	Src/httpParser.c	/^uint8_t BUFPUB[256];$/;"	v	typeref:typename:uint8_t[256]
+BUS	Inc/wizchip_conf.h	/^      }BUS;      $/;"	m	union:__WIZCHIP::_IF	typeref:struct:__WIZCHIP::_IF::__anon56ef9da70108
+Bytes2float	Src/ZEZ-24CXX.c	/^float Bytes2float(uint8_t * ftoa_bytes_temp)$/;"	f	typeref:typename:float
+C2D	Src/httpParser.c	/^static uint8_t C2D($/;"	f	typeref:typename:uint8_t	file:
+CHECK_SOCKDATA	Src/socket.c	/^#define CHECK_SOCKDATA(/;"	d	file:
+CHECK_SOCKINIT	Src/socket.c	/^#define CHECK_SOCKINIT(/;"	d	file:
+CHECK_SOCKMODE	Src/socket.c	/^#define CHECK_SOCKMODE(/;"	d	file:
+CHECK_SOCKNUM	Src/socket.c	/^#define CHECK_SOCKNUM(/;"	d	file:
+CLASS_IN	Src/dns.c	/^#define	CLASS_IN	/;"	d	file:
+CN_GET_NETINFO	Inc/wizchip_conf.h	/^   CN_GET_NETINFO,  \/\/\/< Get Network with @ref wiz_NetInfo$/;"	e	enum:__anon56ef9da70403
+CN_GET_NETMODE	Inc/wizchip_conf.h	/^   CN_GET_NETMODE,  \/\/\/< Get network mode as WOL, PPPoE, Ping Block, and Force ARP mode$/;"	e	enum:__anon56ef9da70403
+CN_GET_TIMEOUT	Inc/wizchip_conf.h	/^   CN_GET_TIMEOUT,  \/\/\/< Get network timeout as retry count and time.$/;"	e	enum:__anon56ef9da70403
+CN_SET_NETINFO	Inc/wizchip_conf.h	/^   CN_SET_NETINFO,  \/\/\/< Set Network with @ref wiz_NetInfo$/;"	e	enum:__anon56ef9da70403
+CN_SET_NETMODE	Inc/wizchip_conf.h	/^   CN_SET_NETMODE,  \/\/\/< Set network mode as WOL, PPPoE, Ping Block, and Force ARP mode$/;"	e	enum:__anon56ef9da70403
+CN_SET_TIMEOUT	Inc/wizchip_conf.h	/^   CN_SET_TIMEOUT,  \/\/\/< Set network timeout as retry count and time.$/;"	e	enum:__anon56ef9da70403
+CODEFLASH	Inc/httpServer.h	/^   CODEFLASH,	\/\/\/< Code flash memory$/;"	e	enum:__anon04976f1b0103
+CRIS	Inc/wizchip_conf.h	/^   }CRIS;  $/;"	m	struct:__WIZCHIP	typeref:struct:__WIZCHIP::_CRIS
+CS	Inc/wizchip_conf.h	/^   }CS;  $/;"	m	struct:__WIZCHIP	typeref:struct:__WIZCHIP::_CS
+CS_CLR_INTERRUPT	Inc/socket.h	/^   CS_CLR_INTERRUPT,       \/\/\/< clear the interrupt of socket with @ref sockint_kind$/;"	e	enum:__anonff98690d0203
+CS_GET_INTERRUPT	Inc/socket.h	/^   CS_GET_INTERRUPT,       \/\/\/< get the socket interrupt. refer to @ref sockint_kind$/;"	e	enum:__anonff98690d0203
+CS_GET_INTMASK	Inc/socket.h	/^   CS_GET_INTMASK          \/\/\/< get the masked interrupt of socket. refer to @ref sockint_kin/;"	e	enum:__anonff98690d0203
+CS_GET_IOMODE	Inc/socket.h	/^   CS_GET_IOMODE,          \/\/\/< get socket IO mode$/;"	e	enum:__anonff98690d0203
+CS_GET_MAXRXBUF	Inc/socket.h	/^   CS_GET_MAXRXBUF,        \/\/\/< get the size of socket buffer allocated in RX memory$/;"	e	enum:__anonff98690d0203
+CS_GET_MAXTXBUF	Inc/socket.h	/^   CS_GET_MAXTXBUF,        \/\/\/< get the size of socket buffer allocated in TX memory$/;"	e	enum:__anonff98690d0203
+CS_SET_INTMASK	Inc/socket.h	/^   CS_SET_INTMASK,         \/\/\/< set the interrupt mask of socket with @ref sockint_kind, Not /;"	e	enum:__anonff98690d0203
+CS_SET_IOMODE	Inc/socket.h	/^   CS_SET_IOMODE,          \/\/\/< set socket IO mode with @ref SOCK_IO_BLOCK or @ref SOCK_IO_NO/;"	e	enum:__anonff98690d0203
+CW_CLR_INTERRUPT	Inc/wizchip_conf.h	/^   CW_CLR_INTERRUPT,   \/\/\/< Clears interrupt$/;"	e	enum:__anon56ef9da70303
+CW_GET_ID	Inc/wizchip_conf.h	/^   CW_GET_ID,          \/\/\/< Gets WIZCHIP name.$/;"	e	enum:__anon56ef9da70303
+CW_GET_INTERRUPT	Inc/wizchip_conf.h	/^   CW_GET_INTERRUPT,   \/\/\/< Get Interrupt status of WIZCHIP$/;"	e	enum:__anon56ef9da70303
+CW_GET_INTRMASK	Inc/wizchip_conf.h	/^   CW_GET_INTRMASK,    \/\/\/< Get interrupt mask$/;"	e	enum:__anon56ef9da70303
+CW_GET_INTRTIME	Inc/wizchip_conf.h	/^   CW_GET_INTRTIME,    \/\/\/< Set interval time between the current and next interrupt. $/;"	e	enum:__anon56ef9da70303
+CW_GET_PHYCONF	Inc/wizchip_conf.h	/^   CW_GET_PHYCONF,     \/\/\/< Get PHY operation mode in internal register. Valid Only W5500$/;"	e	enum:__anon56ef9da70303
+CW_GET_PHYLINK	Inc/wizchip_conf.h	/^   CW_GET_PHYLINK      \/\/\/< Get PHY Link status, Valid Only W5100, W5200$/;"	e	enum:__anon56ef9da70303
+CW_GET_PHYPOWMODE	Inc/wizchip_conf.h	/^   CW_GET_PHYPOWMODE,  \/\/\/< Get PHY Power mode as down or normal, Valid Only W5100, W5200$/;"	e	enum:__anon56ef9da70303
+CW_GET_PHYSTATUS	Inc/wizchip_conf.h	/^   CW_GET_PHYSTATUS,   \/\/\/< Get real PHY status on operating. Valid Only W5500$/;"	e	enum:__anon56ef9da70303
+CW_INIT_WIZCHIP	Inc/wizchip_conf.h	/^   CW_INIT_WIZCHIP,    \/\/\/< Initializes to WIZCHIP with SOCKET buffer size 2 or 1 dimension a/;"	e	enum:__anon56ef9da70303
+CW_RESET_PHY	Inc/wizchip_conf.h	/^   CW_RESET_PHY,       \/\/\/< Resets internal PHY. Valid Only W5500$/;"	e	enum:__anon56ef9da70303
+CW_RESET_WIZCHIP	Inc/wizchip_conf.h	/^   CW_RESET_WIZCHIP,   \/\/\/< Resets WIZCHIP by softly$/;"	e	enum:__anon56ef9da70303
+CW_SET_INTRMASK	Inc/wizchip_conf.h	/^   CW_SET_INTRMASK,    \/\/\/< Masks interrupt$/;"	e	enum:__anon56ef9da70303
+CW_SET_INTRTIME	Inc/wizchip_conf.h	/^   CW_SET_INTRTIME,    \/\/\/< Set interval time between the current and next interrupt. $/;"	e	enum:__anon56ef9da70303
+CW_SET_PHYCONF	Inc/wizchip_conf.h	/^   CW_SET_PHYCONF,     \/\/\/< When PHY configured by internal register, PHY operation mode (Man/;"	e	enum:__anon56ef9da70303
+CW_SET_PHYPOWMODE	Inc/wizchip_conf.h	/^   CW_SET_PHYPOWMODE,  \/\/\/< Set PHY power mode as normal and down when PHYSTATUS.OPMD == 1. V/;"	e	enum:__anon56ef9da70303
+CurrentX	Src/ssd1306.c	/^	uint16_t CurrentX;$/;"	m	struct:__anon4331c3010108	typeref:typename:uint16_t	file:
+CurrentY	Src/ssd1306.c	/^	uint16_t CurrentY;$/;"	m	struct:__anon4331c3010108	typeref:typename:uint16_t	file:
+DATAFLASH	Inc/httpServer.h	/^   DATAFLASH	\/\/\/< External data flash memory$/;"	e	enum:__anon04976f1b0103
+DCHP_HOST_NAME	Inc/dhcp.h	/^#define DCHP_HOST_NAME /;"	d
+DGAIN	Src/dns.c	/^#define	DGAIN /;"	d	file:
+DHCP_ACK	Src/dhcp.c	/^#define DHCP_ACK /;"	d	file:
+DHCP_BOOTREPLY	Src/dhcp.c	/^#define DHCP_BOOTREPLY /;"	d	file:
+DHCP_BOOTREQUEST	Src/dhcp.c	/^#define DHCP_BOOTREQUEST /;"	d	file:
+DHCP_CHADDR	Src/dhcp.c	/^uint8_t DHCP_CHADDR[6]; \/\/ DHCP Client MAC address.$/;"	v	typeref:typename:uint8_t[6]
+DHCP_CLIENT_PORT	Inc/dhcp.h	/^#define DHCP_CLIENT_PORT /;"	d
+DHCP_DECLINE	Src/dhcp.c	/^#define DHCP_DECLINE /;"	d	file:
+DHCP_DISCOVER	Src/dhcp.c	/^#define DHCP_DISCOVER /;"	d	file:
+DHCP_FAILED	Inc/dhcp.h	/^   DHCP_FAILED = 0,  \/\/\/< Processing Fail$/;"	e	enum:__anonda664a230103
+DHCP_FLAGSBROADCAST	Src/dhcp.c	/^#define DHCP_FLAGSBROADCAST /;"	d	file:
+DHCP_FLAGSUNICAST	Src/dhcp.c	/^#define DHCP_FLAGSUNICAST /;"	d	file:
+DHCP_HLENETHERNET	Src/dhcp.c	/^#define DHCP_HLENETHERNET /;"	d	file:
+DHCP_HOPS	Src/dhcp.c	/^#define DHCP_HOPS /;"	d	file:
+DHCP_HTYPE100MB	Src/dhcp.c	/^#define DHCP_HTYPE100MB /;"	d	file:
+DHCP_HTYPE10MB	Src/dhcp.c	/^#define DHCP_HTYPE10MB /;"	d	file:
+DHCP_INFORM	Src/dhcp.c	/^#define DHCP_INFORM /;"	d	file:
+DHCP_IP_ASSIGN	Inc/dhcp.h	/^   DHCP_IP_ASSIGN,   \/\/\/< First Occupy IP from DHPC server      (if cbfunc == null, act as de/;"	e	enum:__anonda664a230103
+DHCP_IP_CHANGED	Inc/dhcp.h	/^   DHCP_IP_CHANGED,  \/\/\/< Change IP address by new ip from DHCP (if cbfunc == null, act as de/;"	e	enum:__anonda664a230103
+DHCP_IP_LEASED	Inc/dhcp.h	/^   DHCP_IP_LEASED,   \/\/\/< Stand by $/;"	e	enum:__anonda664a230103
+DHCP_NAK	Src/dhcp.c	/^#define DHCP_NAK /;"	d	file:
+DHCP_OFFER	Src/dhcp.c	/^#define DHCP_OFFER /;"	d	file:
+DHCP_RELEASE	Src/dhcp.c	/^#define DHCP_RELEASE /;"	d	file:
+DHCP_REQUEST	Src/dhcp.c	/^#define DHCP_REQUEST /;"	d	file:
+DHCP_RUNNING	Inc/dhcp.h	/^   DHCP_RUNNING,     \/\/\/< Processing DHCP protocol$/;"	e	enum:__anonda664a230103
+DHCP_SECS	Src/dhcp.c	/^#define DHCP_SECS /;"	d	file:
+DHCP_SERVER_PORT	Inc/dhcp.h	/^#define DHCP_SERVER_PORT /;"	d
+DHCP_SIP	Src/dhcp.c	/^uint8_t DHCP_SIP[4];                      \/\/ DHCP Server IP address$/;"	v	typeref:typename:uint8_t[4]
+DHCP_SOCKET	Src/dhcp.c	/^uint8_t DHCP_SOCKET;                      \/\/ Socket number for DHCP$/;"	v	typeref:typename:uint8_t
+DHCP_SOCKET	Src/main.c	/^#define DHCP_SOCKET /;"	d	file:
+DHCP_STOPPED	Inc/dhcp.h	/^   DHCP_STOPPED      \/\/\/< Stop processing DHCP protocol$/;"	e	enum:__anonda664a230103
+DHCP_WAIT_TIME	Inc/dhcp.h	/^#define	DHCP_WAIT_TIME /;"	d
+DHCP_XID	Src/dhcp.c	/^uint32_t DHCP_XID;      \/\/ Any number$/;"	v	typeref:typename:uint32_t
+DHCP_allocated_dns	Src/dhcp.c	/^uint8_t DHCP_allocated_dns[4] = {0, };    \/\/ DNS address from DHCP$/;"	v	typeref:typename:uint8_t[4]
+DHCP_allocated_gw	Src/dhcp.c	/^uint8_t DHCP_allocated_gw[4]  = {0, };    \/\/ Gateway address from DHCP$/;"	v	typeref:typename:uint8_t[4]
+DHCP_allocated_ip	Src/dhcp.c	/^uint8_t DHCP_allocated_ip[4]  = {0, };    \/\/ IP address from DHCP$/;"	v	typeref:typename:uint8_t[4]
+DHCP_allocated_sn	Src/dhcp.c	/^uint8_t DHCP_allocated_sn[4]  = {0, };    \/\/ Subnet mask from DHCP$/;"	v	typeref:typename:uint8_t[4]
+DHCP_init	Src/dhcp.c	/^void DHCP_init(uint8_t s, uint8_t * buf)$/;"	f	typeref:typename:void
+DHCP_run	Src/dhcp.c	/^uint8_t DHCP_run(void)$/;"	f	typeref:typename:uint8_t
+DHCP_stop	Src/dhcp.c	/^void    DHCP_stop(void)$/;"	f	typeref:typename:void
+DHCP_time_handler	Src/dhcp.c	/^void DHCP_time_handler(void)$/;"	f	typeref:typename:void
+DHT11	Inc/DHT.h	/^	DHT11,$/;"	e	enum:__anone5419a040203
+DHT22	Inc/DHT.h	/^	DHT22$/;"	e	enum:__anone5419a040203
+DHT_H_	Inc/DHT.h	/^#define DHT_H_$/;"	d
+DHT_POLLING_CONTROL	Inc/DHT.h	/^#define DHT_POLLING_CONTROL	/;"	d
+DHT_POLLING_INTERVAL_DHT11	Inc/DHT.h	/^#define DHT_POLLING_INTERVAL_DHT11	/;"	d
+DHT_POLLING_INTERVAL_DHT22	Inc/DHT.h	/^#define DHT_POLLING_INTERVAL_DHT22	/;"	d
+DHT_Pin	Inc/DHT.h	/^	uint16_t DHT_Pin;		\/\/Номер пина датчика (GPIO_PIN_0, GPIO_PIN_1, etc)$/;"	m	struct:__anone5419a040308	typeref:typename:uint16_t
+DHT_Port	Inc/DHT.h	/^	GPIO_TypeDef *DHT_Port;	\/\/Порт датчика (GPIOA, GPIOB, etc)$/;"	m	struct:__anone5419a040308	typeref:typename:GPIO_TypeDef *
+DHT_TIMEOUT	Inc/DHT.h	/^#define DHT_TIMEOUT /;"	d
+DHT_data	Inc/DHT.h	/^} DHT_data;$/;"	t	typeref:struct:__anone5419a040108
+DHT_getData	Src/DHT.c	/^DHT_data DHT_getData(DHT_sensor *sensor) {$/;"	f	typeref:typename:DHT_data
+DHT_sensor	Inc/DHT.h	/^} DHT_sensor;$/;"	t	typeref:struct:__anone5419a040308
+DHT_type	Inc/DHT.h	/^} DHT_type;$/;"	t	typeref:enum:__anone5419a040203
+DMA1_Channel1_IRQHandler	Src/stm32g0xx_it.c	/^void DMA1_Channel1_IRQHandler(void)$/;"	f	typeref:typename:void
+DNS_MSGID	Src/dns.c	/^uint16_t DNS_MSGID;     \/\/ DNS message ID$/;"	v	typeref:typename:uint16_t
+DNS_MSG_ID	Inc/dns.h	/^#define DNS_MSG_ID /;"	d
+DNS_SOCKET	Src/dns.c	/^uint8_t  DNS_SOCKET;    \/\/ SOCKET number for DNS$/;"	v	typeref:typename:uint8_t
+DNS_SOCKET	Src/main.c	/^#define DNS_SOCKET /;"	d	file:
+DNS_WAIT_TIME	Inc/dns.h	/^#define	DNS_WAIT_TIME /;"	d
+Delay	Src/DHT.c	/^#define Delay(/;"	d	file:
+EEPROM_ADDR	Src/ZEZ-24CXX.c	/^#define EEPROM_ADDR /;"	d	file:
+EEPROM_BUFFER_SIZE	Inc/STM32_EEPROM_SPI.h	/^#define EEPROM_BUFFER_SIZE /;"	d
+EEPROM_CS_HIGH	Inc/STM32_EEPROM_SPI.h	/^#define EEPROM_CS_HIGH(/;"	d
+EEPROM_CS_LOW	Inc/STM32_EEPROM_SPI.h	/^#define EEPROM_CS_LOW(/;"	d
+EEPROM_I2C	Src/ZEZ-24CXX.c	/^#define EEPROM_I2C /;"	d	file:
+EEPROM_PAGESIZE	Inc/STM32_EEPROM_SPI.h	/^#define EEPROM_PAGESIZE /;"	d
+EEPROM_PageErase	Src/ZEZ-24CXX.c	/^void EEPROM_PageErase (uint16_t page)$/;"	f	typeref:typename:void
+EEPROM_RDSR	Inc/STM32_EEPROM_SPI.h	/^#define EEPROM_RDSR /;"	d
+EEPROM_READ	Inc/STM32_EEPROM_SPI.h	/^#define EEPROM_READ /;"	d
+EEPROM_Read	Src/ZEZ-24CXX.c	/^void EEPROM_Read (uint16_t page, uint16_t offset, uint8_t *data, uint16_t size)$/;"	f	typeref:typename:void
+EEPROM_Read_NUM	Src/ZEZ-24CXX.c	/^float EEPROM_Read_NUM (uint16_t page, uint16_t offset)$/;"	f	typeref:typename:float
+EEPROM_STATUS_COMPLETE	Inc/STM32_EEPROM_SPI.h	/^    EEPROM_STATUS_COMPLETE,$/;"	e	enum:__anon85b17d8f0103
+EEPROM_STATUS_ERROR	Inc/STM32_EEPROM_SPI.h	/^    EEPROM_STATUS_ERROR$/;"	e	enum:__anon85b17d8f0103
+EEPROM_STATUS_PENDING	Inc/STM32_EEPROM_SPI.h	/^    EEPROM_STATUS_PENDING,$/;"	e	enum:__anon85b17d8f0103
+EEPROM_WIP_FLAG	Inc/STM32_EEPROM_SPI.h	/^#define EEPROM_WIP_FLAG /;"	d
+EEPROM_WRDI	Inc/STM32_EEPROM_SPI.h	/^#define EEPROM_WRDI /;"	d
+EEPROM_WREN	Inc/STM32_EEPROM_SPI.h	/^#define EEPROM_WREN /;"	d
+EEPROM_WRITE	Inc/STM32_EEPROM_SPI.h	/^#define EEPROM_WRITE /;"	d
+EEPROM_WRSR	Inc/STM32_EEPROM_SPI.h	/^#define EEPROM_WRSR /;"	d
+EEPROM_Write	Src/ZEZ-24CXX.c	/^void EEPROM_Write (uint16_t page, uint16_t offset, uint8_t *data, uint16_t size)$/;"	f	typeref:typename:void
+EEPROM_Write_NUM	Src/ZEZ-24CXX.c	/^void EEPROM_Write_NUM (uint16_t page, uint16_t offset, float data)$/;"	f	typeref:typename:void
+END_SIZE	Src/ZEZ-24CXX.c	/^#define END_SIZE /;"	d	file:
+ERROR_HTML_PAGE	Inc/httpParser.h	/^static const char  	ERROR_HTML_PAGE[] = "HTTP\/1.1 404 Not Found\\r\\nContent-Type: text\/html\\/;"	v	typeref:typename:const char[]
+ERROR_REQUEST_PAGE	Inc/httpParser.h	/^static const char 	ERROR_REQUEST_PAGE[] = "HTTP\/1.1 400 OK\\r\\nContent-Type: text\/html\\r\\nC/;"	v	typeref:typename:const char[]
+EXTERNAL_I2S1_CLOCK_VALUE	Inc/stm32g0xx_hal_conf.h	/^#define EXTERNAL_I2S1_CLOCK_VALUE /;"	d
+EXTERNAL_I2S2_CLOCK_VALUE	Inc/stm32g0xx_hal_conf.h	/^  #define EXTERNAL_I2S2_CLOCK_VALUE /;"	d
+EepromOperations	Inc/STM32_EEPROM_SPI.h	/^} EepromOperations;$/;"	t	typeref:enum:__anon85b17d8f0103
+Error_Handler	Src/main.c	/^void Error_Handler(void)$/;"	f	typeref:typename:void
+FLASHSIZE_BASE_ADDRESS	Inc/stm32g0xx_ll_utils.h	/^#define FLASHSIZE_BASE_ADDRESS /;"	d
+FONTS_GetStringSize	Src/fonts.c	/^char* FONTS_GetStringSize(char* str, FONTS_SIZE_t* SizeStruct, FontDef_t* Font) {$/;"	f	typeref:typename:char *
+FONTS_H	Inc/fonts.h	/^#define FONTS_H /;"	d
+FORMAT_ERROR	Src/dns.c	/^#define	FORMAT_ERROR /;"	d	file:
+Font11x18	Src/fonts.c	/^const uint16_t Font11x18 [] = {$/;"	v	typeref:typename:const uint16_t[]
+Font16x26	Src/fonts.c	/^const uint16_t Font16x26 [] = {$/;"	v	typeref:typename:const uint16_t[]
+Font7x10	Src/fonts.c	/^const uint16_t Font7x10 [] = {$/;"	v	typeref:typename:const uint16_t[]
+Font_11x18	Src/fonts.c	/^FontDef_t Font_11x18 = {$/;"	v	typeref:typename:FontDef_t
+Font_16x26	Src/fonts.c	/^FontDef_t Font_16x26 = {$/;"	v	typeref:typename:FontDef_t
+Font_7x10	Src/fonts.c	/^FontDef_t Font_7x10 = {$/;"	v	typeref:typename:FontDef_t
+GAR	Inc/w5500.h	/^#define GAR /;"	d
+GetMCUInfo	Src/main.c	/^void GetMCUInfo(void)$/;"	f	typeref:typename:void
+HAL_ADC_MODULE_ENABLED	Inc/stm32g0xx_hal_conf.h	/^#define HAL_ADC_MODULE_ENABLED$/;"	d
+HAL_ADC_MspDeInit	Src/stm32g0xx_hal_msp.c	/^void HAL_ADC_MspDeInit(ADC_HandleTypeDef* hadc)$/;"	f	typeref:typename:void
+HAL_ADC_MspInit	Src/stm32g0xx_hal_msp.c	/^void HAL_ADC_MspInit(ADC_HandleTypeDef* hadc)$/;"	f	typeref:typename:void
+HAL_CORTEX_MODULE_ENABLED	Inc/stm32g0xx_hal_conf.h	/^#define HAL_CORTEX_MODULE_ENABLED$/;"	d
+HAL_CRC_MODULE_ENABLED	Inc/stm32g0xx_hal_conf.h	/^#define HAL_CRC_MODULE_ENABLED$/;"	d
+HAL_CRC_MspDeInit	Src/stm32g0xx_hal_msp.c	/^void HAL_CRC_MspDeInit(CRC_HandleTypeDef* hcrc)$/;"	f	typeref:typename:void
+HAL_CRC_MspInit	Src/stm32g0xx_hal_msp.c	/^void HAL_CRC_MspInit(CRC_HandleTypeDef* hcrc)$/;"	f	typeref:typename:void
+HAL_DMA_MODULE_ENABLED	Inc/stm32g0xx_hal_conf.h	/^#define HAL_DMA_MODULE_ENABLED$/;"	d
+HAL_EXTI_MODULE_ENABLED	Inc/stm32g0xx_hal_conf.h	/^#define HAL_EXTI_MODULE_ENABLED$/;"	d
+HAL_FLASH_MODULE_ENABLED	Inc/stm32g0xx_hal_conf.h	/^#define HAL_FLASH_MODULE_ENABLED$/;"	d
+HAL_GPIO_MODULE_ENABLED	Inc/stm32g0xx_hal_conf.h	/^#define HAL_GPIO_MODULE_ENABLED$/;"	d
+HAL_I2C_MODULE_ENABLED	Inc/stm32g0xx_hal_conf.h	/^#define HAL_I2C_MODULE_ENABLED$/;"	d
+HAL_I2C_MspDeInit	Src/stm32g0xx_hal_msp.c	/^void HAL_I2C_MspDeInit(I2C_HandleTypeDef* hi2c)$/;"	f	typeref:typename:void
+HAL_I2C_MspInit	Src/stm32g0xx_hal_msp.c	/^void HAL_I2C_MspInit(I2C_HandleTypeDef* hi2c)$/;"	f	typeref:typename:void
+HAL_MODULE_ENABLED	Inc/stm32g0xx_hal_conf.h	/^#define HAL_MODULE_ENABLED$/;"	d
+HAL_MspInit	Src/stm32g0xx_hal_msp.c	/^void HAL_MspInit(void)$/;"	f	typeref:typename:void
+HAL_PWR_MODULE_ENABLED	Inc/stm32g0xx_hal_conf.h	/^#define HAL_PWR_MODULE_ENABLED$/;"	d
+HAL_RCC_MODULE_ENABLED	Inc/stm32g0xx_hal_conf.h	/^#define HAL_RCC_MODULE_ENABLED$/;"	d
+HAL_SPI_MODULE_ENABLED	Inc/stm32g0xx_hal_conf.h	/^#define HAL_SPI_MODULE_ENABLED$/;"	d
+HAL_SPI_MspDeInit	Src/stm32g0xx_hal_msp.c	/^void HAL_SPI_MspDeInit(SPI_HandleTypeDef* hspi)$/;"	f	typeref:typename:void
+HAL_SPI_MspInit	Src/stm32g0xx_hal_msp.c	/^void HAL_SPI_MspInit(SPI_HandleTypeDef* hspi)$/;"	f	typeref:typename:void
+HAL_TIM_Base_MspDeInit	Src/stm32g0xx_hal_msp.c	/^void HAL_TIM_Base_MspDeInit(TIM_HandleTypeDef* htim_base)$/;"	f	typeref:typename:void
+HAL_TIM_Base_MspInit	Src/stm32g0xx_hal_msp.c	/^void HAL_TIM_Base_MspInit(TIM_HandleTypeDef* htim_base)$/;"	f	typeref:typename:void
+HAL_TIM_MODULE_ENABLED	Inc/stm32g0xx_hal_conf.h	/^#define HAL_TIM_MODULE_ENABLED$/;"	d
+HAL_TIM_MspPostInit	Src/stm32g0xx_hal_msp.c	/^void HAL_TIM_MspPostInit(TIM_HandleTypeDef* htim)$/;"	f	typeref:typename:void
+HAL_UART_MODULE_ENABLED	Inc/stm32g0xx_hal_conf.h	/^#define HAL_UART_MODULE_ENABLED$/;"	d
+HAL_UART_MspDeInit	Src/stm32g0xx_hal_msp.c	/^void HAL_UART_MspDeInit(UART_HandleTypeDef* huart)$/;"	f	typeref:typename:void
+HAL_UART_MspInit	Src/stm32g0xx_hal_msp.c	/^void HAL_UART_MspInit(UART_HandleTypeDef* huart)$/;"	f	typeref:typename:void
+HOST_NAME	Src/dhcp.c	/^uint8_t HOST_NAME[] = DCHP_HOST_NAME;  $/;"	v	typeref:typename:uint8_t[]
+HSE_STARTUP_TIMEOUT	Inc/stm32g0xx_hal_conf.h	/^#define HSE_STARTUP_TIMEOUT /;"	d
+HSE_VALUE	Inc/stm32g0xx_hal_conf.h	/^#define HSE_VALUE /;"	d
+HSE_VALUE	Src/system_stm32g0xx.c	/^#define HSE_VALUE /;"	d	file:
+HSI48_VALUE	Inc/stm32g0xx_hal_conf.h	/^  #define HSI48_VALUE /;"	d
+HSI_VALUE	Inc/stm32g0xx_hal_conf.h	/^#define HSI_VALUE /;"	d
+HSI_VALUE	Src/system_stm32g0xx.c	/^  #define HSI_VALUE /;"	d	file:
+HTML_HEADER	Inc/httpParser.h	/^#define HTML_HEADER /;"	d
+HTTP_FAILED	Inc/httpServer.h	/^#define HTTP_FAILED	/;"	d
+HTTP_MAX_TIMEOUT_SEC	Inc/httpServer.h	/^#define HTTP_MAX_TIMEOUT_SEC	/;"	d
+HTTP_OK	Inc/httpServer.h	/^#define HTTP_OK	/;"	d
+HTTP_RESET	Inc/httpServer.h	/^#define HTTP_RESET	/;"	d
+HTTP_SERVER_PORT	Inc/httpParser.h	/^#define HTTP_SERVER_PORT	/;"	d
+HTTP_SOCKET	Src/main.c	/^#define HTTP_SOCKET /;"	d	file:
+HardFault_Handler	Src/stm32g0xx_it.c	/^void HardFault_Handler(void)$/;"	f	typeref:typename:void
+IF	Inc/wizchip_conf.h	/^   }IF;$/;"	m	struct:__WIZCHIP	typeref:union:__WIZCHIP::_IF
+IINCHIP_READ	Inc/w5500.h	/^#define IINCHIP_READ(/;"	d
+IINCHIP_READ_BUF	Inc/w5500.h	/^#define IINCHIP_READ_BUF(/;"	d
+IINCHIP_WRITE	Inc/w5500.h	/^#define IINCHIP_WRITE(/;"	d
+IINCHIP_WRITE_BUF	Inc/w5500.h	/^#define IINCHIP_WRITE_BUF(/;"	d
+IK_DEST_UNREACH	Inc/wizchip_conf.h	/^   IK_DEST_UNREACH      = (1 << 6),   \/\/\/< Destination IP & Port Unreachable, No use in W5200$/;"	e	enum:__anon56ef9da70503
+IK_IP_CONFLICT	Inc/wizchip_conf.h	/^   IK_IP_CONFLICT       = (1 << 7),   \/\/\/< IP conflict occurred$/;"	e	enum:__anon56ef9da70503
+IK_PPPOE_TERMINATED	Inc/wizchip_conf.h	/^   IK_PPPOE_TERMINATED  = (1 << 5),   \/\/\/< PPPoE Disconnected$/;"	e	enum:__anon56ef9da70503
+IK_SOCK_0	Inc/wizchip_conf.h	/^   IK_SOCK_0            = (1 << 8),   \/\/\/< Socket 0 interrupt$/;"	e	enum:__anon56ef9da70503
+IK_SOCK_1	Inc/wizchip_conf.h	/^   IK_SOCK_1            = (1 << 9),   \/\/\/< Socket 1 interrupt$/;"	e	enum:__anon56ef9da70503
+IK_SOCK_2	Inc/wizchip_conf.h	/^   IK_SOCK_2            = (1 << 10),  \/\/\/< Socket 2 interrupt$/;"	e	enum:__anon56ef9da70503
+IK_SOCK_3	Inc/wizchip_conf.h	/^   IK_SOCK_3            = (1 << 11),  \/\/\/< Socket 3 interrupt$/;"	e	enum:__anon56ef9da70503
+IK_SOCK_4	Inc/wizchip_conf.h	/^   IK_SOCK_4            = (1 << 12),  \/\/\/< Socket 4 interrupt, No use in 5100$/;"	e	enum:__anon56ef9da70503
+IK_SOCK_5	Inc/wizchip_conf.h	/^   IK_SOCK_5            = (1 << 13),  \/\/\/< Socket 5 interrupt, No use in 5100$/;"	e	enum:__anon56ef9da70503
+IK_SOCK_6	Inc/wizchip_conf.h	/^   IK_SOCK_6            = (1 << 14),  \/\/\/< Socket 6 interrupt, No use in 5100$/;"	e	enum:__anon56ef9da70503
+IK_SOCK_7	Inc/wizchip_conf.h	/^   IK_SOCK_7            = (1 << 15),  \/\/\/< Socket 7 interrupt, No use in 5100$/;"	e	enum:__anon56ef9da70503
+IK_SOCK_ALL	Inc/wizchip_conf.h	/^   IK_SOCK_ALL          = (0xFF << 8) \/\/\/< All Socket interrupt$/;"	e	enum:__anon56ef9da70503
+IK_WOL	Inc/wizchip_conf.h	/^   IK_WOL               = (1 << 4),   \/\/\/< Wake On Lan by receiving the magic packet. Valid i/;"	e	enum:__anon56ef9da70503
+IM_IR4	Inc/w5500.h	/^#define IM_IR4 /;"	d
+IM_IR5	Inc/w5500.h	/^#define IM_IR5 /;"	d
+IM_IR6	Inc/w5500.h	/^#define IM_IR6 /;"	d
+IM_IR7	Inc/w5500.h	/^#define IM_IR7 /;"	d
+INC_EEPROM_H_	Inc/ZEZ-24CXX.h	/^#define INC_EEPROM_H_$/;"	d
+INFINITE_LEASETIME	Src/dhcp.c	/^#define INFINITE_LEASETIME /;"	d	file:
+INITIAL_WEBPAGE	Inc/httpServer.h	/^#define INITIAL_WEBPAGE	/;"	d
+INITRTT	Src/dns.c	/^#define	INITRTT	/;"	d	file:
+INSTRUCTION_CACHE_ENABLE	Inc/stm32g0xx_hal_conf.h	/^#define  INSTRUCTION_CACHE_ENABLE /;"	d
+INTLEVEL	Inc/w5500.h	/^#define INTLEVEL /;"	d
+IPPORT_DOMAIN	Inc/dns.h	/^#define	IPPORT_DOMAIN /;"	d
+IPPROTO_GGP	Inc/w5500.h	/^#define IPPROTO_GGP /;"	d
+IPPROTO_ICMP	Inc/w5500.h	/^#define IPPROTO_ICMP /;"	d
+IPPROTO_IDP	Inc/w5500.h	/^#define IPPROTO_IDP /;"	d
+IPPROTO_IGMP	Inc/w5500.h	/^#define IPPROTO_IGMP /;"	d
+IPPROTO_IP	Inc/w5500.h	/^#define IPPROTO_IP /;"	d
+IPPROTO_ND	Inc/w5500.h	/^#define IPPROTO_ND /;"	d
+IPPROTO_PUP	Inc/w5500.h	/^#define IPPROTO_PUP /;"	d
+IPPROTO_RAW	Inc/w5500.h	/^#define IPPROTO_RAW /;"	d
+IPPROTO_TCP	Inc/w5500.h	/^#define IPPROTO_TCP /;"	d
+IPPROTO_UDP	Inc/w5500.h	/^#define IPPROTO_UDP /;"	d
+IPforwarding	Src/dhcp.c	/^   IPforwarding            = 19,$/;"	e	enum:__anond4c1b96c0103	file:
+IQUERY	Src/dns.c	/^#define	IQUERY /;"	d	file:
+IR	Inc/w5500.h	/^#define IR /;"	d
+IR_CONFLICT	Inc/w5500.h	/^#define IR_CONFLICT /;"	d
+IR_MP	Inc/w5500.h	/^#define IR_MP /;"	d
+IR_PPPoE	Inc/w5500.h	/^#define IR_PPPoE /;"	d
+IR_UNREACH	Inc/w5500.h	/^#define IR_UNREACH /;"	d
+Initialized	Src/ssd1306.c	/^	uint8_t Initialized;$/;"	m	struct:__anon4331c3010108	typeref:typename:uint8_t	file:
+Inverted	Src/ssd1306.c	/^	uint8_t Inverted;$/;"	m	struct:__anon4331c3010108	typeref:typename:uint8_t	file:
+LAGAIN	Src/dns.c	/^#define	LAGAIN /;"	d	file:
+LDGAIN	Src/dns.c	/^#define	LDGAIN /;"	d	file:
+LL_GetFlashSize	Inc/stm32g0xx_ll_utils.h	/^__STATIC_INLINE uint32_t LL_GetFlashSize(void)$/;"	f	typeref:typename:__STATIC_INLINE uint32_t
+LL_GetPackageType	Inc/stm32g0xx_ll_utils.h	/^__STATIC_INLINE uint32_t LL_GetPackageType(void)$/;"	f	typeref:typename:__STATIC_INLINE uint32_t
+LL_GetUID_Word0	Inc/stm32g0xx_ll_utils.h	/^__STATIC_INLINE uint32_t LL_GetUID_Word0(void)$/;"	f	typeref:typename:__STATIC_INLINE uint32_t
+LL_GetUID_Word1	Inc/stm32g0xx_ll_utils.h	/^__STATIC_INLINE uint32_t LL_GetUID_Word1(void)$/;"	f	typeref:typename:__STATIC_INLINE uint32_t
+LL_GetUID_Word2	Inc/stm32g0xx_ll_utils.h	/^__STATIC_INLINE uint32_t LL_GetUID_Word2(void)$/;"	f	typeref:typename:__STATIC_INLINE uint32_t
+LL_InitTick	Inc/stm32g0xx_ll_utils.h	/^__STATIC_INLINE void LL_InitTick(uint32_t HCLKFrequency, uint32_t Ticks)$/;"	f	typeref:typename:__STATIC_INLINE void
+LL_MAX_DELAY	Inc/stm32g0xx_ll_utils.h	/^#define LL_MAX_DELAY /;"	d
+LL_UTILS_ClkInitTypeDef	Inc/stm32g0xx_ll_utils.h	/^} LL_UTILS_ClkInitTypeDef;$/;"	t	typeref:struct:__anonb47e868b0208
+LL_UTILS_HSEBYPASS_OFF	Inc/stm32g0xx_ll_utils.h	/^#define LL_UTILS_HSEBYPASS_OFF /;"	d
+LL_UTILS_HSEBYPASS_ON	Inc/stm32g0xx_ll_utils.h	/^#define LL_UTILS_HSEBYPASS_ON /;"	d
+LL_UTILS_PACKAGETYPE_BGA100	Inc/stm32g0xx_ll_utils.h	/^#define LL_UTILS_PACKAGETYPE_BGA100 /;"	d
+LL_UTILS_PACKAGETYPE_BGA64_N	Inc/stm32g0xx_ll_utils.h	/^#define LL_UTILS_PACKAGETYPE_BGA64_N /;"	d
+LL_UTILS_PACKAGETYPE_QFN28_GP	Inc/stm32g0xx_ll_utils.h	/^#define LL_UTILS_PACKAGETYPE_QFN28_GP /;"	d
+LL_UTILS_PACKAGETYPE_QFN28_PD	Inc/stm32g0xx_ll_utils.h	/^#define LL_UTILS_PACKAGETYPE_QFN28_PD /;"	d
+LL_UTILS_PACKAGETYPE_QFN32	Inc/stm32g0xx_ll_utils.h	/^#define LL_UTILS_PACKAGETYPE_QFN32 /;"	d
+LL_UTILS_PACKAGETYPE_QFN32_GP	Inc/stm32g0xx_ll_utils.h	/^#define LL_UTILS_PACKAGETYPE_QFN32_GP /;"	d
+LL_UTILS_PACKAGETYPE_QFN32_N	Inc/stm32g0xx_ll_utils.h	/^#define LL_UTILS_PACKAGETYPE_QFN32_N /;"	d
+LL_UTILS_PACKAGETYPE_QFN32_PD	Inc/stm32g0xx_ll_utils.h	/^#define LL_UTILS_PACKAGETYPE_QFN32_PD /;"	d
+LL_UTILS_PACKAGETYPE_QFN48	Inc/stm32g0xx_ll_utils.h	/^#define LL_UTILS_PACKAGETYPE_QFN48 /;"	d
+LL_UTILS_PACKAGETYPE_QFN48_GP	Inc/stm32g0xx_ll_utils.h	/^#define LL_UTILS_PACKAGETYPE_QFN48_GP /;"	d
+LL_UTILS_PACKAGETYPE_QFN48_N	Inc/stm32g0xx_ll_utils.h	/^#define LL_UTILS_PACKAGETYPE_QFN48_N /;"	d
+LL_UTILS_PACKAGETYPE_QFN64_GP	Inc/stm32g0xx_ll_utils.h	/^#define LL_UTILS_PACKAGETYPE_QFN64_GP /;"	d
+LL_UTILS_PACKAGETYPE_QFN64_N	Inc/stm32g0xx_ll_utils.h	/^#define LL_UTILS_PACKAGETYPE_QFN64_N /;"	d
+LL_UTILS_PACKAGETYPE_QFP100	Inc/stm32g0xx_ll_utils.h	/^#define LL_UTILS_PACKAGETYPE_QFP100 /;"	d
+LL_UTILS_PACKAGETYPE_QFP28	Inc/stm32g0xx_ll_utils.h	/^#define LL_UTILS_PACKAGETYPE_QFP28 /;"	d
+LL_UTILS_PACKAGETYPE_QFP64	Inc/stm32g0xx_ll_utils.h	/^#define LL_UTILS_PACKAGETYPE_QFP64 /;"	d
+LL_UTILS_PACKAGETYPE_QFP80	Inc/stm32g0xx_ll_utils.h	/^#define LL_UTILS_PACKAGETYPE_QFP80 /;"	d
+LL_UTILS_PACKAGETYPE_SO8	Inc/stm32g0xx_ll_utils.h	/^#define LL_UTILS_PACKAGETYPE_SO8 /;"	d
+LL_UTILS_PACKAGETYPE_TSSOP20	Inc/stm32g0xx_ll_utils.h	/^#define LL_UTILS_PACKAGETYPE_TSSOP20 /;"	d
+LL_UTILS_PACKAGETYPE_WLCSP18	Inc/stm32g0xx_ll_utils.h	/^#define LL_UTILS_PACKAGETYPE_WLCSP18 /;"	d
+LL_UTILS_PACKAGETYPE_WLCSP52	Inc/stm32g0xx_ll_utils.h	/^#define LL_UTILS_PACKAGETYPE_WLCSP52 /;"	d
+LL_UTILS_PLLInitTypeDef	Inc/stm32g0xx_ll_utils.h	/^} LL_UTILS_PLLInitTypeDef;$/;"	t	typeref:struct:__anonb47e868b0108
+LSE_STARTUP_TIMEOUT	Inc/stm32g0xx_hal_conf.h	/^#define LSE_STARTUP_TIMEOUT /;"	d
+LSE_VALUE	Inc/stm32g0xx_hal_conf.h	/^#define LSE_VALUE /;"	d
+LSE_VALUE	Src/system_stm32g0xx.c	/^  #define LSE_VALUE /;"	d	file:
+LSI_VALUE	Inc/stm32g0xx_hal_conf.h	/^#define LSI_VALUE /;"	d
+LSI_VALUE	Src/system_stm32g0xx.c	/^ #define LSI_VALUE /;"	d	file:
+MAGIC_COOKIE	Inc/dhcp.h	/^#define MAGIC_COOKIE /;"	d
+MAXCNAME	Src/dns.c	/^#define	MAXCNAME	/;"	d	file:
+MAX_CONTENT_CALLBACK	Inc/httpServer.h	/^#define MAX_CONTENT_CALLBACK	/;"	d
+MAX_CONTENT_NAME_LEN	Inc/httpServer.h	/^#define MAX_CONTENT_NAME_LEN	/;"	d
+MAX_DHCP_RETRY	Inc/dhcp.h	/^#define	MAX_DHCP_RETRY /;"	d
+MAX_DNS_BUF_SIZE	Inc/dns.h	/^#define	MAX_DNS_BUF_SIZE	/;"	d
+MAX_DNS_RETRY	Inc/dns.h	/^#define	MAX_DNS_RETRY /;"	d
+MAX_DOMAIN_NAME	Inc/dns.h	/^#define  MAX_DOMAIN_NAME /;"	d
+MAX_URI_SIZE	Inc/httpParser.h	/^#define MAX_URI_SIZE	/;"	d
+METHOD	Inc/httpParser.h	/^	uint8_t	METHOD;						\/**< request method(METHOD_GET...). *\/$/;"	m	struct:_st_http_request	typeref:typename:uint8_t
+METHOD_ERR	Inc/httpParser.h	/^#define		METHOD_ERR	/;"	d
+METHOD_GET	Inc/httpParser.h	/^#define		METHOD_GET	/;"	d
+METHOD_HEAD	Inc/httpParser.h	/^#define		METHOD_HEAD	/;"	d
+METHOD_POST	Inc/httpParser.h	/^#define		METHOD_POST	/;"	d
+MMIO16	Src/main.c	/^#define MMIO16(/;"	d	file:
+MMIO32	Src/main.c	/^#define MMIO32(/;"	d	file:
+MOBILE_INITIAL_WEBPAGE	Inc/httpServer.h	/^#define MOBILE_INITIAL_WEBPAGE	/;"	d
+MR	Inc/w5500.h	/^#define MR /;"	d
+MR_FARP	Inc/w5500.h	/^#define MR_FARP /;"	d
+MR_PB	Inc/w5500.h	/^#define MR_PB /;"	d
+MR_PPPOE	Inc/w5500.h	/^#define MR_PPPOE /;"	d
+MR_RST	Inc/w5500.h	/^#define MR_RST /;"	d
+MR_WOL	Inc/w5500.h	/^#define MR_WOL /;"	d
+MX_ADC1_Init	Src/main.c	/^static void MX_ADC1_Init(void)$/;"	f	typeref:typename:void	file:
+MX_CRC_Init	Src/main.c	/^static void MX_CRC_Init(void)$/;"	f	typeref:typename:void	file:
+MX_DMA_Init	Src/main.c	/^static void MX_DMA_Init(void)$/;"	f	typeref:typename:void	file:
+MX_GPIO_Init	Src/main.c	/^static void MX_GPIO_Init(void)$/;"	f	typeref:typename:void	file:
+MX_I2C2_Init	Src/main.c	/^static void MX_I2C2_Init(void)$/;"	f	typeref:typename:void	file:
+MX_SPI1_Init	Src/main.c	/^static void MX_SPI1_Init(void)$/;"	f	typeref:typename:void	file:
+MX_TIM14_Init	Src/main.c	/^static void MX_TIM14_Init(void)$/;"	f	typeref:typename:void	file:
+MX_TIM3_Init	Src/main.c	/^static void MX_TIM3_Init(void)$/;"	f	typeref:typename:void	file:
+MX_TIM6_Init	Src/main.c	/^static void MX_TIM6_Init(void)$/;"	f	typeref:typename:void	file:
+MX_TIM7_Init	Src/main.c	/^static void MX_TIM7_Init(void)$/;"	f	typeref:typename:void	file:
+MX_USART1_UART_Init	Src/main.c	/^static void MX_USART1_UART_Init(void)$/;"	f	typeref:typename:void	file:
+M_INITIAL_WEBPAGE	Inc/httpServer.h	/^#define M_INITIAL_WEBPAGE	/;"	d
+NAME_ERROR	Src/dns.c	/^#define	NAME_ERROR /;"	d	file:
+NETINFO_DHCP	Inc/wizchip_conf.h	/^   NETINFO_DHCP           \/\/\/< Dynamic IP configruation from a DHCP sever$/;"	e	enum:__anon56ef9da70603
+NETINFO_STATIC	Inc/wizchip_conf.h	/^   NETINFO_STATIC = 1,    \/\/\/< Static IP configuration by manually.$/;"	e	enum:__anon56ef9da70603
+NMI_Handler	Src/stm32g0xx_it.c	/^void NMI_Handler(void)$/;"	f	typeref:typename:void
+NM_FORCEARP	Inc/wizchip_conf.h	/^   NM_FORCEARP    = (1<<1),  \/\/\/< Force to APP send whenever udp data is sent. Valid only in /;"	e	enum:__anon56ef9da70703
+NM_PINGBLOCK	Inc/wizchip_conf.h	/^   NM_PINGBLOCK   = (1<<4),  \/\/\/< Block ping-request$/;"	e	enum:__anon56ef9da70703
+NM_PPPOE	Inc/wizchip_conf.h	/^   NM_PPPOE       = (1<<3),  \/\/\/< PPPoE mode$/;"	e	enum:__anon56ef9da70703
+NM_WAKEONLAN	Inc/wizchip_conf.h	/^   NM_WAKEONLAN   = (1<<5),  \/\/\/< Wake On Lan $/;"	e	enum:__anon56ef9da70703
+NONE	Inc/httpServer.h	/^   NONE,		\/\/\/< Web storage none$/;"	e	enum:__anon04976f1b0103
+NOT_IMPL	Src/dns.c	/^#define	NOT_IMPL /;"	d	file:
+NO_ERROR	Src/dns.c	/^#define	NO_ERROR /;"	d	file:
+NibbleToHex	Src/dhcp.c	/^char NibbleToHex(uint8_t nibble)$/;"	f	typeref:typename:char
+OLD_allocated_ip	Src/dhcp.c	/^uint8_t OLD_allocated_ip[4]   = {0, };    \/\/ Previous IP address$/;"	v	typeref:typename:uint8_t[4]
+OPT	Src/dhcp.c	/^	uint8_t  OPT[OPT_SIZE]; \/\/\/< Option$/;"	m	struct:__anond4c1b96c0208	typeref:typename:uint8_t[]	file:
+OPT_SIZE	Src/dhcp.c	/^#define OPT_SIZE /;"	d	file:
+PACKAGE_BASE_ADDRESS	Inc/stm32g0xx_ll_utils.h	/^#define PACKAGE_BASE_ADDRESS /;"	d
+PACK_COMPLETED	Inc/socket.h	/^#define PACK_COMPLETED /;"	d
+PACK_FIFOBYTE	Inc/socket.h	/^#define PACK_FIFOBYTE /;"	d
+PACK_FIRST	Inc/socket.h	/^#define PACK_FIRST /;"	d
+PACK_REMAINED	Inc/socket.h	/^#define PACK_REMAINED /;"	d
+PAGE_NUM	Src/ZEZ-24CXX.c	/^#define PAGE_NUM /;"	d	file:
+PAGE_SIZE	Src/ZEZ-24CXX.c	/^#define PAGE_SIZE /;"	d	file:
+PHAR	Inc/w5500.h	/^#define PHAR /;"	d
+PHYCFGR	Inc/w5500.h	/^#define PHYCFGR /;"	d
+PHYCFGR_DPX_FULL	Inc/w5500.h	/^#define PHYCFGR_DPX_FULL /;"	d
+PHYCFGR_DPX_HALF	Inc/w5500.h	/^#define PHYCFGR_DPX_HALF /;"	d
+PHYCFGR_LNK_OFF	Inc/w5500.h	/^#define PHYCFGR_LNK_OFF /;"	d
+PHYCFGR_LNK_ON	Inc/w5500.h	/^#define PHYCFGR_LNK_ON /;"	d
+PHYCFGR_OPMD	Inc/w5500.h	/^#define PHYCFGR_OPMD /;"	d
+PHYCFGR_OPMDC_100F	Inc/w5500.h	/^#define PHYCFGR_OPMDC_100F /;"	d
+PHYCFGR_OPMDC_100FA	Inc/w5500.h	/^#define PHYCFGR_OPMDC_100FA /;"	d
+PHYCFGR_OPMDC_100H	Inc/w5500.h	/^#define PHYCFGR_OPMDC_100H /;"	d
+PHYCFGR_OPMDC_10F	Inc/w5500.h	/^#define PHYCFGR_OPMDC_10F /;"	d
+PHYCFGR_OPMDC_10H	Inc/w5500.h	/^#define PHYCFGR_OPMDC_10H /;"	d
+PHYCFGR_OPMDC_ALLA	Inc/w5500.h	/^#define PHYCFGR_OPMDC_ALLA /;"	d
+PHYCFGR_OPMDC_NA	Inc/w5500.h	/^#define PHYCFGR_OPMDC_NA /;"	d
+PHYCFGR_OPMDC_PDOWN	Inc/w5500.h	/^#define PHYCFGR_OPMDC_PDOWN /;"	d
+PHYCFGR_RST	Inc/w5500.h	/^#define PHYCFGR_RST /;"	d
+PHYCFGR_SPD_10	Inc/w5500.h	/^#define PHYCFGR_SPD_10 /;"	d
+PHYCFGR_SPD_100	Inc/w5500.h	/^#define PHYCFGR_SPD_100 /;"	d
+PHY_CONFBY_HW	Inc/wizchip_conf.h	/^#define PHY_CONFBY_HW /;"	d
+PHY_CONFBY_SW	Inc/wizchip_conf.h	/^#define PHY_CONFBY_SW /;"	d
+PHY_DUPLEX_FULL	Inc/wizchip_conf.h	/^#define PHY_DUPLEX_FULL /;"	d
+PHY_DUPLEX_HALF	Inc/wizchip_conf.h	/^#define PHY_DUPLEX_HALF /;"	d
+PHY_LINK_OFF	Inc/wizchip_conf.h	/^#define PHY_LINK_OFF /;"	d
+PHY_LINK_ON	Inc/wizchip_conf.h	/^#define PHY_LINK_ON /;"	d
+PHY_MODE_AUTONEGO	Inc/wizchip_conf.h	/^#define PHY_MODE_AUTONEGO /;"	d
+PHY_MODE_MANUAL	Inc/wizchip_conf.h	/^#define PHY_MODE_MANUAL /;"	d
+PHY_POWER_DOWN	Inc/wizchip_conf.h	/^#define PHY_POWER_DOWN /;"	d
+PHY_POWER_NORM	Inc/wizchip_conf.h	/^#define PHY_POWER_NORM /;"	d
+PHY_SPEED_10	Inc/wizchip_conf.h	/^#define PHY_SPEED_10 /;"	d
+PHY_SPEED_100	Inc/wizchip_conf.h	/^#define PHY_SPEED_100 /;"	d
+PLLM	Inc/stm32g0xx_ll_utils.h	/^  uint32_t PLLM;   \/*!< Division factor for PLL VCO input clock.$/;"	m	struct:__anonb47e868b0108	typeref:typename:uint32_t
+PLLN	Inc/stm32g0xx_ll_utils.h	/^  uint32_t PLLN;   \/*!< Multiplication factor for PLL VCO output clock.$/;"	m	struct:__anonb47e868b0108	typeref:typename:uint32_t
+PLLR	Inc/stm32g0xx_ll_utils.h	/^  uint32_t PLLR;   \/*!< Division for the main system clock.$/;"	m	struct:__anonb47e868b0108	typeref:typename:uint32_t
+PMAGIC	Inc/w5500.h	/^#define PMAGIC /;"	d
+PMRU	Inc/w5500.h	/^#define PMRU /;"	d
+PREFETCH_ENABLE	Inc/stm32g0xx_hal_conf.h	/^#define  PREFETCH_ENABLE /;"	d
+PSID	Inc/w5500.h	/^#define PSID /;"	d
+PTIMER	Inc/w5500.h	/^#define PTIMER /;"	d
+PTYPE_CGI	Inc/httpParser.h	/^#define 	PTYPE_CGI	/;"	d
+PTYPE_CSS	Inc/httpParser.h	/^#define     PTYPE_CSS /;"	d
+PTYPE_EOT	Inc/httpParser.h	/^#define		PTYPE_EOT	/;"	d
+PTYPE_ERR	Inc/httpParser.h	/^#define		PTYPE_ERR	/;"	d
+PTYPE_FLASH	Inc/httpParser.h	/^#define		PTYPE_FLASH	/;"	d
+PTYPE_GIF	Inc/httpParser.h	/^#define		PTYPE_GIF	/;"	d
+PTYPE_HTML	Inc/httpParser.h	/^#define		PTYPE_HTML	/;"	d
+PTYPE_ICO	Inc/httpParser.h	/^#define		PTYPE_ICO	/;"	d
+PTYPE_JPEG	Inc/httpParser.h	/^#define		PTYPE_JPEG	/;"	d
+PTYPE_JS	Inc/httpParser.h	/^#define		PTYPE_JS	/;"	d
+PTYPE_JSON	Inc/httpParser.h	/^#define		PTYPE_JSON	/;"	d
+PTYPE_MPEG	Inc/httpParser.h	/^#define		PTYPE_MPEG	/;"	d
+PTYPE_OTF	Inc/httpParser.h	/^#define		PTYPE_OTF	/;"	d
+PTYPE_PDF	Inc/httpParser.h	/^#define		PTYPE_PDF	/;"	d
+PTYPE_PNG	Inc/httpParser.h	/^#define		PTYPE_PNG	/;"	d
+PTYPE_SVG	Inc/httpParser.h	/^#define		PTYPE_SVG	/;"	d
+PTYPE_TEXT	Inc/httpParser.h	/^#define		PTYPE_TEXT	/;"	d
+PTYPE_TTF	Inc/httpParser.h	/^#define		PTYPE_TTF	/;"	d
+PTYPE_WOFF	Inc/httpParser.h	/^#define		PTYPE_WOFF	/;"	d
+PTYPE_XML	Inc/httpParser.h	/^#define     PTYPE_XML /;"	d
+PendSV_Handler	Src/stm32g0xx_it.c	/^void PendSV_Handler(void)$/;"	f	typeref:typename:void
+QUERY	Src/dns.c	/^#define	QUERY /;"	d	file:
+REFUSED	Src/dns.c	/^#define	REFUSED /;"	d	file:
+RESPONSE	Src/dns.c	/^#define	RESPONSE /;"	d	file:
+RES_CGIHEAD_OK	Inc/httpParser.h	/^#define RES_CGIHEAD_OK	/;"	d
+RES_CSSHEAD_OK	Inc/httpParser.h	/^#define RES_CSSHEAD_OK	/;"	d
+RES_EOTHEAD_OK	Inc/httpParser.h	/^#define RES_EOTHEAD_OK	/;"	d
+RES_FLASHHEAD_OK	Inc/httpParser.h	/^#define RES_FLASHHEAD_OK /;"	d
+RES_GIFHEAD_OK	Inc/httpParser.h	/^#define RES_GIFHEAD_OK	/;"	d
+RES_HTMLHEAD_OK	Inc/httpParser.h	/^#define RES_HTMLHEAD_OK	/;"	d
+RES_ICOHEAD_OK	Inc/httpParser.h	/^#define RES_ICOHEAD_OK	/;"	d
+RES_JPEGHEAD_OK	Inc/httpParser.h	/^#define RES_JPEGHEAD_OK	/;"	d
+RES_JSHEAD_OK	Inc/httpParser.h	/^#define RES_JSHEAD_OK	/;"	d
+RES_JSONHEAD_OK	Inc/httpParser.h	/^#define RES_JSONHEAD_OK	/;"	d
+RES_OTFHEAD_OK	Inc/httpParser.h	/^#define RES_OTFHEAD_OK	/;"	d
+RES_PNGHEAD_OK	Inc/httpParser.h	/^#define RES_PNGHEAD_OK	/;"	d
+RES_SVGHEAD_OK	Inc/httpParser.h	/^#define RES_SVGHEAD_OK	/;"	d
+RES_TEXTHEAD_OK	Inc/httpParser.h	/^#define RES_TEXTHEAD_OK	/;"	d
+RES_TTFHEAD_OK	Inc/httpParser.h	/^#define RES_TTFHEAD_OK	/;"	d
+RES_WOFFHEAD_OK	Inc/httpParser.h	/^#define RES_WOFFHEAD_OK	/;"	d
+RES_XMLHEAD_OK	Inc/httpParser.h	/^#define RES_XMLHEAD_OK /;"	d
+RIP_MSG	Src/dhcp.c	/^} RIP_MSG;$/;"	t	typeref:struct:__anond4c1b96c0208	file:
+RIP_MSG_SIZE	Src/dhcp.c	/^#define RIP_MSG_SIZE /;"	d	file:
+SDCARD	Inc/httpServer.h	/^   SDCARD,    	\/\/\/< SD card$/;"	e	enum:__anon04976f1b0103
+SERVER_FAIL	Src/dns.c	/^#define	SERVER_FAIL /;"	d	file:
+SF_BROAD_BLOCK	Inc/socket.h	/^   #define SF_BROAD_BLOCK /;"	d
+SF_ETHER_OWN	Inc/socket.h	/^#define SF_ETHER_OWN /;"	d
+SF_IGMP_VER2	Inc/socket.h	/^#define SF_IGMP_VER2 /;"	d
+SF_IO_NONBLOCK	Inc/socket.h	/^#define SF_IO_NONBLOCK /;"	d
+SF_IPv6_BLOCK	Inc/socket.h	/^   #define SF_IPv6_BLOCK /;"	d
+SF_MULTI_BLOCK	Inc/socket.h	/^   #define SF_MULTI_BLOCK /;"	d
+SF_MULTI_ENABLE	Inc/socket.h	/^#define SF_MULTI_ENABLE /;"	d
+SF_TCP_ALIGN	Inc/socket.h	/^   #define SF_TCP_ALIGN	/;"	d
+SF_TCP_NODELAY	Inc/socket.h	/^#define SF_TCP_NODELAY /;"	d
+SF_UNI_BLOCK	Inc/socket.h	/^   #define SF_UNI_BLOCK /;"	d
+SHAR	Inc/w5500.h	/^#define SHAR /;"	d
+SIK_ALL	Inc/socket.h	/^   SIK_ALL           = 0x1F         \/\/\/< all interrupt$/;"	e	enum:__anonff98690d0103
+SIK_CONNECTED	Inc/socket.h	/^   SIK_CONNECTED     = (1 << 0),    \/\/\/< connected$/;"	e	enum:__anonff98690d0103
+SIK_DISCONNECTED	Inc/socket.h	/^   SIK_DISCONNECTED  = (1 << 1),    \/\/\/< disconnected$/;"	e	enum:__anonff98690d0103
+SIK_RECEIVED	Inc/socket.h	/^   SIK_RECEIVED      = (1 << 2),    \/\/\/< data received$/;"	e	enum:__anonff98690d0103
+SIK_SENT	Inc/socket.h	/^   SIK_SENT          = (1 << 4),    \/\/\/< send ok$/;"	e	enum:__anonff98690d0103
+SIK_TIMEOUT	Inc/socket.h	/^   SIK_TIMEOUT       = (1 << 3),    \/\/\/< timeout occurred$/;"	e	enum:__anonff98690d0103
+SIMR	Inc/w5500.h	/^#define SIMR /;"	d
+SIPR	Inc/w5500.h	/^#define SIPR /;"	d
+SIR	Inc/w5500.h	/^#define SIR /;"	d
+SOCKERR_ARG	Inc/socket.h	/^#define SOCKERR_ARG /;"	d
+SOCKERR_BUFFER	Inc/socket.h	/^#define SOCKERR_BUFFER /;"	d
+SOCKERR_DATALEN	Inc/socket.h	/^#define SOCKERR_DATALEN /;"	d
+SOCKERR_IPINVALID	Inc/socket.h	/^#define SOCKERR_IPINVALID /;"	d
+SOCKERR_PORTZERO	Inc/socket.h	/^#define SOCKERR_PORTZERO /;"	d
+SOCKERR_SOCKCLOSED	Inc/socket.h	/^#define SOCKERR_SOCKCLOSED /;"	d
+SOCKERR_SOCKFLAG	Inc/socket.h	/^#define SOCKERR_SOCKFLAG /;"	d
+SOCKERR_SOCKINIT	Inc/socket.h	/^#define SOCKERR_SOCKINIT /;"	d
+SOCKERR_SOCKMODE	Inc/socket.h	/^#define SOCKERR_SOCKMODE /;"	d
+SOCKERR_SOCKNUM	Inc/socket.h	/^#define SOCKERR_SOCKNUM /;"	d
+SOCKERR_SOCKOPT	Inc/socket.h	/^#define SOCKERR_SOCKOPT /;"	d
+SOCKERR_SOCKSTATUS	Inc/socket.h	/^#define SOCKERR_SOCKSTATUS /;"	d
+SOCKERR_TIMEOUT	Inc/socket.h	/^#define SOCKERR_TIMEOUT /;"	d
+SOCKET	Inc/socket.h	/^#define SOCKET /;"	d
+SOCKFATAL_PACKLEN	Inc/socket.h	/^#define SOCKFATAL_PACKLEN /;"	d
+SOCK_ANY_PORT_NUM	Src/socket.c	/^#define SOCK_ANY_PORT_NUM /;"	d	file:
+SOCK_BUSY	Inc/socket.h	/^#define SOCK_BUSY /;"	d
+SOCK_CLOSED	Inc/w5500.h	/^#define SOCK_CLOSED /;"	d
+SOCK_CLOSE_WAIT	Inc/w5500.h	/^#define SOCK_CLOSE_WAIT /;"	d
+SOCK_CLOSING	Inc/w5500.h	/^#define SOCK_CLOSING /;"	d
+SOCK_DGRAM	Inc/w5500.h	/^#define SOCK_DGRAM /;"	d
+SOCK_ERROR	Inc/socket.h	/^#define SOCK_ERROR /;"	d
+SOCK_ESTABLISHED	Inc/w5500.h	/^#define SOCK_ESTABLISHED /;"	d
+SOCK_FATAL	Inc/socket.h	/^#define SOCK_FATAL /;"	d
+SOCK_FIN_WAIT	Inc/w5500.h	/^#define SOCK_FIN_WAIT /;"	d
+SOCK_INIT	Inc/w5500.h	/^#define SOCK_INIT /;"	d
+SOCK_IO_BLOCK	Inc/socket.h	/^#define SOCK_IO_BLOCK /;"	d
+SOCK_IO_NONBLOCK	Inc/socket.h	/^#define SOCK_IO_NONBLOCK /;"	d
+SOCK_IPRAW	Inc/w5500.h	/^#define SOCK_IPRAW /;"	d
+SOCK_LAST_ACK	Inc/w5500.h	/^#define SOCK_LAST_ACK /;"	d
+SOCK_LISTEN	Inc/w5500.h	/^#define SOCK_LISTEN /;"	d
+SOCK_MACRAW	Inc/w5500.h	/^#define SOCK_MACRAW /;"	d
+SOCK_OK	Inc/socket.h	/^#define SOCK_OK /;"	d
+SOCK_STREAM	Inc/w5500.h	/^#define SOCK_STREAM /;"	d
+SOCK_SYNRECV	Inc/w5500.h	/^#define SOCK_SYNRECV /;"	d
+SOCK_SYNSENT	Inc/w5500.h	/^#define SOCK_SYNSENT /;"	d
+SOCK_TIME_WAIT	Inc/w5500.h	/^#define SOCK_TIME_WAIT /;"	d
+SOCK_UDP	Inc/w5500.h	/^#define SOCK_UDP /;"	d
+SO_DESTIP	Inc/socket.h	/^   SO_DESTIP,           \/\/\/< Set the destination IP address. @ref Sn_DIPR ( @ref setSn_DIPR()/;"	e	enum:__anonff98690d0303
+SO_DESTPORT	Inc/socket.h	/^   SO_DESTPORT,         \/\/\/< Set the destination Port number. @ref Sn_DPORT ( @ref setSn_DPOR/;"	e	enum:__anonff98690d0303
+SO_FLAG	Inc/socket.h	/^   SO_FLAG,           \/\/\/< Valid only in getsockopt(), For set flag of socket refer to <I>fla/;"	e	enum:__anonff98690d0303
+SO_KEEPALIVEAUTO	Inc/socket.h	/^      SO_KEEPALIVEAUTO, \/\/\/< Set\/Get keep-alive auto transmission timer in TCP mode, Not sup/;"	e	enum:__anonff98690d0303
+SO_KEEPALIVESEND	Inc/socket.h	/^   SO_KEEPALIVESEND,    \/\/\/< Valid only in setsockopt. Manually send keep-alive packet in TCP/;"	e	enum:__anonff98690d0303
+SO_MSS	Inc/socket.h	/^   SO_MSS,              \/\/\/< Set MSS. @ref Sn_MSSR ( @ref setSn_MSSR(), @ref getSn_MSSR() )$/;"	e	enum:__anonff98690d0303
+SO_PACKINFO	Inc/socket.h	/^   SO_PACKINFO          \/\/\/< Valid only in getsockopt. Get the packet information as @ref PAC/;"	e	enum:__anonff98690d0303
+SO_RECVBUF	Inc/socket.h	/^   SO_RECVBUF,          \/\/\/< Valid only in getsockopt. Get the received data size in socket R/;"	e	enum:__anonff98690d0303
+SO_REMAINSIZE	Inc/socket.h	/^   SO_REMAINSIZE,       \/\/\/< Valid only in getsockopt. Get the remained packet size in other /;"	e	enum:__anonff98690d0303
+SO_SENDBUF	Inc/socket.h	/^   SO_SENDBUF,          \/\/\/< Valid only in getsockopt. Get the free data size of Socekt TX bu/;"	e	enum:__anonff98690d0303
+SO_STATUS	Inc/socket.h	/^   SO_STATUS,           \/\/\/< Valid only in getsockopt. Get the socket status. @ref Sn_SR, @re/;"	e	enum:__anonff98690d0303
+SO_TOS	Inc/socket.h	/^   SO_TOS,              \/\/\/< Set TOS. @ref Sn_TOS  ( @ref setSn_TOS(), @ref getSn_TOS() )$/;"	e	enum:__anonff98690d0303
+SO_TTL	Inc/socket.h	/^   SO_TTL,              \/\/\/< Set TTL. @ref Sn_TTL  ( @ref setSn_TTL(), @ref getSn_TTL() )$/;"	e	enum:__anonff98690d0303
+SPI	Inc/wizchip_conf.h	/^      }SPI;$/;"	m	union:__WIZCHIP::_IF	typeref:struct:__WIZCHIP::_IF::__anon56ef9da70208
+SSD1306	Src/ssd1306.c	/^static SSD1306_t SSD1306;$/;"	v	typeref:typename:SSD1306_t	file:
+SSD1306_ACTIVATE_SCROLL	Src/ssd1306.c	/^#define SSD1306_ACTIVATE_SCROLL /;"	d	file:
+SSD1306_Buffer	Src/ssd1306.c	/^static uint8_t SSD1306_Buffer[SSD1306_WIDTH * SSD1306_HEIGHT \/ 8];$/;"	v	typeref:typename:uint8_t[]	file:
+SSD1306_Clear	Src/ssd1306.c	/^void SSD1306_Clear (void)$/;"	f	typeref:typename:void
+SSD1306_DEACTIVATE_SCROLL	Src/ssd1306.c	/^#define SSD1306_DEACTIVATE_SCROLL /;"	d	file:
+SSD1306_DrawBitmap	Src/ssd1306.c	/^void SSD1306_DrawBitmap(int16_t x, int16_t y, const unsigned char* bitmap, int16_t w, int16_t h,/;"	f	typeref:typename:void
+SSD1306_DrawCircle	Src/ssd1306.c	/^void SSD1306_DrawCircle(int16_t x0, int16_t y0, int16_t r, SSD1306_COLOR_t c) {$/;"	f	typeref:typename:void
+SSD1306_DrawFilledCircle	Src/ssd1306.c	/^void SSD1306_DrawFilledCircle(int16_t x0, int16_t y0, int16_t r, SSD1306_COLOR_t c) {$/;"	f	typeref:typename:void
+SSD1306_DrawFilledRectangle	Src/ssd1306.c	/^void SSD1306_DrawFilledRectangle(uint16_t x, uint16_t y, uint16_t w, uint16_t h, SSD1306_COLOR_t/;"	f	typeref:typename:void
+SSD1306_DrawFilledTriangle	Src/ssd1306.c	/^void SSD1306_DrawFilledTriangle(uint16_t x1, uint16_t y1, uint16_t x2, uint16_t y2, uint16_t x3,/;"	f	typeref:typename:void
+SSD1306_DrawLine	Src/ssd1306.c	/^void SSD1306_DrawLine(uint16_t x0, uint16_t y0, uint16_t x1, uint16_t y1, SSD1306_COLOR_t c) {$/;"	f	typeref:typename:void
+SSD1306_DrawPixel	Src/ssd1306.c	/^void SSD1306_DrawPixel(uint16_t x, uint16_t y, SSD1306_COLOR_t color) {$/;"	f	typeref:typename:void
+SSD1306_DrawRectangle	Src/ssd1306.c	/^void SSD1306_DrawRectangle(uint16_t x, uint16_t y, uint16_t w, uint16_t h, SSD1306_COLOR_t c) {$/;"	f	typeref:typename:void
+SSD1306_DrawTriangle	Src/ssd1306.c	/^void SSD1306_DrawTriangle(uint16_t x1, uint16_t y1, uint16_t x2, uint16_t y2, uint16_t x3, uint1/;"	f	typeref:typename:void
+SSD1306_Fill	Src/ssd1306.c	/^void SSD1306_Fill(SSD1306_COLOR_t color) {$/;"	f	typeref:typename:void
+SSD1306_GotoXY	Src/ssd1306.c	/^void SSD1306_GotoXY(uint16_t x, uint16_t y) {$/;"	f	typeref:typename:void
+SSD1306_H	Inc/ssd1306.h	/^#define SSD1306_H /;"	d
+SSD1306_HEIGHT	Inc/ssd1306.h	/^#define SSD1306_HEIGHT /;"	d
+SSD1306_I2C_ADDR	Inc/ssd1306.h	/^#define SSD1306_I2C_ADDR /;"	d
+SSD1306_INVERTDISPLAY	Src/ssd1306.c	/^#define SSD1306_INVERTDISPLAY /;"	d	file:
+SSD1306_Init	Src/ssd1306.c	/^uint8_t SSD1306_Init(void) {$/;"	f	typeref:typename:uint8_t
+SSD1306_InvertDisplay	Src/ssd1306.c	/^void SSD1306_InvertDisplay (int i)$/;"	f	typeref:typename:void
+SSD1306_LEFT_HORIZONTAL_SCROLL	Src/ssd1306.c	/^#define SSD1306_LEFT_HORIZONTAL_SCROLL /;"	d	file:
+SSD1306_NORMALDISPLAY	Src/ssd1306.c	/^#define SSD1306_NORMALDISPLAY /;"	d	file:
+SSD1306_OFF	Src/ssd1306.c	/^void SSD1306_OFF(void) {$/;"	f	typeref:typename:void
+SSD1306_ON	Src/ssd1306.c	/^void SSD1306_ON(void) {$/;"	f	typeref:typename:void
+SSD1306_Putc	Src/ssd1306.c	/^char SSD1306_Putc(char ch, FontDef_t* Font, SSD1306_COLOR_t color) {$/;"	f	typeref:typename:char
+SSD1306_Puts	Src/ssd1306.c	/^char SSD1306_Puts(char* str, FontDef_t* Font, SSD1306_COLOR_t color) {$/;"	f	typeref:typename:char
+SSD1306_RIGHT_HORIZONTAL_SCROLL	Src/ssd1306.c	/^#define SSD1306_RIGHT_HORIZONTAL_SCROLL /;"	d	file:
+SSD1306_SET_VERTICAL_SCROLL_AREA	Src/ssd1306.c	/^#define SSD1306_SET_VERTICAL_SCROLL_AREA /;"	d	file:
+SSD1306_ScrollLeft	Src/ssd1306.c	/^void SSD1306_ScrollLeft(uint8_t start_row, uint8_t end_row)$/;"	f	typeref:typename:void
+SSD1306_ScrollRight	Src/ssd1306.c	/^void SSD1306_ScrollRight(uint8_t start_row, uint8_t end_row)$/;"	f	typeref:typename:void
+SSD1306_Scrolldiagleft	Src/ssd1306.c	/^void SSD1306_Scrolldiagleft(uint8_t start_row, uint8_t end_row)$/;"	f	typeref:typename:void
+SSD1306_Scrolldiagright	Src/ssd1306.c	/^void SSD1306_Scrolldiagright(uint8_t start_row, uint8_t end_row)$/;"	f	typeref:typename:void
+SSD1306_Stopscroll	Src/ssd1306.c	/^void SSD1306_Stopscroll(void)$/;"	f	typeref:typename:void
+SSD1306_ToggleInvert	Src/ssd1306.c	/^void SSD1306_ToggleInvert(void) {$/;"	f	typeref:typename:void
+SSD1306_UpdateScreen	Src/ssd1306.c	/^void SSD1306_UpdateScreen(void) {$/;"	f	typeref:typename:void
+SSD1306_VERTICAL_AND_LEFT_HORIZONTAL_SCROLL	Src/ssd1306.c	/^#define SSD1306_VERTICAL_AND_LEFT_HORIZONTAL_SCROLL /;"	d	file:
+SSD1306_VERTICAL_AND_RIGHT_HORIZONTAL_SCROLL	Src/ssd1306.c	/^#define SSD1306_VERTICAL_AND_RIGHT_HORIZONTAL_SCROLL /;"	d	file:
+SSD1306_WIDTH	Inc/ssd1306.h	/^#define SSD1306_WIDTH /;"	d
+SSD1306_WRITECOMMAND	Src/ssd1306.c	/^#define SSD1306_WRITECOMMAND(/;"	d	file:
+SSD1306_WRITEDATA	Src/ssd1306.c	/^#define SSD1306_WRITEDATA(/;"	d	file:
+SSD1306_t	Src/ssd1306.c	/^} SSD1306_t;$/;"	t	typeref:struct:__anon4331c3010108	file:
+STATE_DHCP_DISCOVER	Src/dhcp.c	/^#define STATE_DHCP_DISCOVER /;"	d	file:
+STATE_DHCP_INIT	Src/dhcp.c	/^#define STATE_DHCP_INIT /;"	d	file:
+STATE_DHCP_LEASED	Src/dhcp.c	/^#define STATE_DHCP_LEASED /;"	d	file:
+STATE_DHCP_RELEASE	Src/dhcp.c	/^#define STATE_DHCP_RELEASE /;"	d	file:
+STATE_DHCP_REQUEST	Src/dhcp.c	/^#define STATE_DHCP_REQUEST /;"	d	file:
+STATE_DHCP_REREQUEST	Src/dhcp.c	/^#define STATE_DHCP_REREQUEST /;"	d	file:
+STATE_DHCP_STOP	Src/dhcp.c	/^#define STATE_DHCP_STOP /;"	d	file:
+STATE_HTTP_IDLE	Inc/httpServer.h	/^#define STATE_HTTP_IDLE /;"	d
+STATE_HTTP_REQ_DONE	Inc/httpServer.h	/^#define STATE_HTTP_REQ_DONE /;"	d
+STATE_HTTP_REQ_INPROC	Inc/httpServer.h	/^#define STATE_HTTP_REQ_INPROC /;"	d
+STATE_HTTP_RES_DONE	Inc/httpServer.h	/^#define STATE_HTTP_RES_DONE /;"	d
+STATE_HTTP_RES_INPROC	Inc/httpServer.h	/^#define STATE_HTTP_RES_INPROC /;"	d
+STATUS_ACCEPTED	Inc/httpParser.h	/^#define		STATUS_ACCEPTED	/;"	d
+STATUS_BAD_GATEWAY	Inc/httpParser.h	/^#define		STATUS_BAD_GATEWAY	/;"	d
+STATUS_BAD_REQ	Inc/httpParser.h	/^#define		STATUS_BAD_REQ	/;"	d
+STATUS_CREATED	Inc/httpParser.h	/^#define		STATUS_CREATED	/;"	d
+STATUS_FORBIDDEN	Inc/httpParser.h	/^#define		STATUS_FORBIDDEN	/;"	d
+STATUS_INT_SERR	Inc/httpParser.h	/^#define		STATUS_INT_SERR	/;"	d
+STATUS_MV_PERM	Inc/httpParser.h	/^#define		STATUS_MV_PERM	/;"	d
+STATUS_MV_TEMP	Inc/httpParser.h	/^#define		STATUS_MV_TEMP	/;"	d
+STATUS_NOT_FOUND	Inc/httpParser.h	/^#define		STATUS_NOT_FOUND	/;"	d
+STATUS_NOT_IMPL	Inc/httpParser.h	/^#define		STATUS_NOT_IMPL	/;"	d
+STATUS_NOT_MODIF	Inc/httpParser.h	/^#define		STATUS_NOT_MODIF	/;"	d
+STATUS_NO_CONTENT	Inc/httpParser.h	/^#define		STATUS_NO_CONTENT	/;"	d
+STATUS_OK	Inc/httpParser.h	/^#define		STATUS_OK	/;"	d
+STATUS_SERV_UNAVAIL	Inc/httpParser.h	/^#define		STATUS_SERV_UNAVAIL	/;"	d
+STATUS_UNAUTH	Inc/httpParser.h	/^#define		STATUS_UNAUTH	/;"	d
+STM32G0xx_HAL_CONF_H	Inc/stm32g0xx_hal_conf.h	/^#define STM32G0xx_HAL_CONF_H$/;"	d
+STM32G0xx_LL_UTILS_H	Inc/stm32g0xx_ll_utils.h	/^#define STM32G0xx_LL_UTILS_H$/;"	d
+SUBR	Inc/w5500.h	/^#define SUBR /;"	d
+SVC_Handler	Src/stm32g0xx_it.c	/^void SVC_Handler(void)$/;"	f	typeref:typename:void
+Sn_CR	Inc/w5500.h	/^#define Sn_CR(/;"	d
+Sn_CR_CLOSE	Inc/w5500.h	/^#define Sn_CR_CLOSE /;"	d
+Sn_CR_CONNECT	Inc/w5500.h	/^#define Sn_CR_CONNECT /;"	d
+Sn_CR_DISCON	Inc/w5500.h	/^#define Sn_CR_DISCON /;"	d
+Sn_CR_LISTEN	Inc/w5500.h	/^#define Sn_CR_LISTEN /;"	d
+Sn_CR_OPEN	Inc/w5500.h	/^#define Sn_CR_OPEN /;"	d
+Sn_CR_RECV	Inc/w5500.h	/^#define Sn_CR_RECV /;"	d
+Sn_CR_SEND	Inc/w5500.h	/^#define Sn_CR_SEND /;"	d
+Sn_CR_SEND_KEEP	Inc/w5500.h	/^#define Sn_CR_SEND_KEEP /;"	d
+Sn_CR_SEND_MAC	Inc/w5500.h	/^#define Sn_CR_SEND_MAC /;"	d
+Sn_DHAR	Inc/w5500.h	/^#define Sn_DHAR(/;"	d
+Sn_DIPR	Inc/w5500.h	/^#define Sn_DIPR(/;"	d
+Sn_DPORT	Inc/w5500.h	/^#define Sn_DPORT(/;"	d
+Sn_FRAG	Inc/w5500.h	/^#define Sn_FRAG(/;"	d
+Sn_IMR	Inc/w5500.h	/^#define Sn_IMR(/;"	d
+Sn_IR	Inc/w5500.h	/^#define Sn_IR(/;"	d
+Sn_IR_CON	Inc/w5500.h	/^#define Sn_IR_CON /;"	d
+Sn_IR_DISCON	Inc/w5500.h	/^#define Sn_IR_DISCON /;"	d
+Sn_IR_RECV	Inc/w5500.h	/^#define Sn_IR_RECV /;"	d
+Sn_IR_SENDOK	Inc/w5500.h	/^#define Sn_IR_SENDOK /;"	d
+Sn_IR_TIMEOUT	Inc/w5500.h	/^#define Sn_IR_TIMEOUT /;"	d
+Sn_KPALVTR	Inc/w5500.h	/^#define Sn_KPALVTR(/;"	d
+Sn_MR	Inc/w5500.h	/^#define Sn_MR(/;"	d
+Sn_MR_BCASTB	Inc/w5500.h	/^#define Sn_MR_BCASTB /;"	d
+Sn_MR_CLOSE	Inc/w5500.h	/^#define Sn_MR_CLOSE /;"	d
+Sn_MR_IPRAW	Inc/w5500.h	/^#define Sn_MR_IPRAW /;"	d
+Sn_MR_MACRAW	Inc/w5500.h	/^#define Sn_MR_MACRAW /;"	d
+Sn_MR_MC	Inc/w5500.h	/^#define Sn_MR_MC /;"	d
+Sn_MR_MFEN	Inc/w5500.h	/^#define Sn_MR_MFEN /;"	d
+Sn_MR_MIP6B	Inc/w5500.h	/^#define Sn_MR_MIP6B /;"	d
+Sn_MR_MMB	Inc/w5500.h	/^#define Sn_MR_MMB /;"	d
+Sn_MR_MULTI	Inc/w5500.h	/^#define Sn_MR_MULTI /;"	d
+Sn_MR_ND	Inc/w5500.h	/^#define Sn_MR_ND /;"	d
+Sn_MR_TCP	Inc/w5500.h	/^#define Sn_MR_TCP /;"	d
+Sn_MR_UCASTB	Inc/w5500.h	/^#define Sn_MR_UCASTB /;"	d
+Sn_MR_UDP	Inc/w5500.h	/^#define Sn_MR_UDP /;"	d
+Sn_MSSR	Inc/w5500.h	/^#define Sn_MSSR(/;"	d
+Sn_PORT	Inc/w5500.h	/^#define Sn_PORT(/;"	d
+Sn_RXBUF_SIZE	Inc/w5500.h	/^#define Sn_RXBUF_SIZE(/;"	d
+Sn_RX_RD	Inc/w5500.h	/^#define Sn_RX_RD(/;"	d
+Sn_RX_RSR	Inc/w5500.h	/^#define Sn_RX_RSR(/;"	d
+Sn_RX_WR	Inc/w5500.h	/^#define Sn_RX_WR(/;"	d
+Sn_SR	Inc/w5500.h	/^#define Sn_SR(/;"	d
+Sn_TOS	Inc/w5500.h	/^#define Sn_TOS(/;"	d
+Sn_TTL	Inc/w5500.h	/^#define Sn_TTL(/;"	d
+Sn_TXBUF_SIZE	Inc/w5500.h	/^#define Sn_TXBUF_SIZE(/;"	d
+Sn_TX_FSR	Inc/w5500.h	/^#define Sn_TX_FSR(/;"	d
+Sn_TX_RD	Inc/w5500.h	/^#define Sn_TX_RD(/;"	d
+Sn_TX_WR	Inc/w5500.h	/^#define Sn_TX_WR(/;"	d
+StorageType	Inc/httpServer.h	/^}StorageType;$/;"	t	typeref:enum:__anon04976f1b0103
+SysTick_Handler	Src/stm32g0xx_it.c	/^void SysTick_Handler(void)$/;"	f	typeref:typename:void
+SystemClock_Config	Src/main.c	/^void SystemClock_Config(void)$/;"	f	typeref:typename:void
+SystemCoreClock	Src/system_stm32g0xx.c	/^  uint32_t SystemCoreClock = 16000000UL;$/;"	v	typeref:typename:uint32_t
+SystemCoreClockUpdate	Src/system_stm32g0xx.c	/^void SystemCoreClockUpdate(void)$/;"	f	typeref:typename:void
+SystemInit	Src/system_stm32g0xx.c	/^void SystemInit(void)$/;"	f	typeref:typename:void
+TICK_INT_PRIORITY	Inc/stm32g0xx_hal_conf.h	/^#define  TICK_INT_PRIORITY /;"	d
+TIM14_IRQHandler	Src/main.c	/^void TIM14_IRQHandler(void)$/;"	f	typeref:typename:void
+TIM6_IRQHandler	Src/main.c	/^void TIM6_IRQHandler(void)$/;"	f	typeref:typename:void
+TIM7_IRQHandler	Src/main.c	/^void TIM7_IRQHandler(void)$/;"	f	typeref:typename:void
+TYPE	Inc/httpParser.h	/^	uint8_t	TYPE;						\/**< request type(PTYPE_HTML...).   *\/$/;"	m	struct:_st_http_request	typeref:typename:uint8_t
+TYPE_A	Src/dns.c	/^#define	TYPE_A	/;"	d	file:
+TYPE_ANY	Src/dns.c	/^#define	TYPE_ANY	/;"	d	file:
+TYPE_CNAME	Src/dns.c	/^#define	TYPE_CNAME	/;"	d	file:
+TYPE_HINFO	Src/dns.c	/^#define	TYPE_HINFO	/;"	d	file:
+TYPE_MB	Src/dns.c	/^#define	TYPE_MB	/;"	d	file:
+TYPE_MD	Src/dns.c	/^#define	TYPE_MD	/;"	d	file:
+TYPE_MF	Src/dns.c	/^#define	TYPE_MF	/;"	d	file:
+TYPE_MG	Src/dns.c	/^#define	TYPE_MG	/;"	d	file:
+TYPE_MINFO	Src/dns.c	/^#define	TYPE_MINFO	/;"	d	file:
+TYPE_MR	Src/dns.c	/^#define	TYPE_MR	/;"	d	file:
+TYPE_MX	Src/dns.c	/^#define	TYPE_MX	/;"	d	file:
+TYPE_NS	Src/dns.c	/^#define	TYPE_NS	/;"	d	file:
+TYPE_NULL	Src/dns.c	/^#define	TYPE_NULL	/;"	d	file:
+TYPE_PTR	Src/dns.c	/^#define	TYPE_PTR	/;"	d	file:
+TYPE_SOA	Src/dns.c	/^#define	TYPE_SOA	/;"	d	file:
+TYPE_TXT	Src/dns.c	/^#define	TYPE_TXT	/;"	d	file:
+TYPE_WKS	Src/dns.c	/^#define	TYPE_WKS	/;"	d	file:
+Tfiltro	Src/main.c	/^#define Tfiltro /;"	d	file:
+UART1_rxBuffer	Src/main.c	/^uint8_t UART1_rxBuffer[6] = {0};$/;"	v	typeref:typename:uint8_t[6]
+UART_Printf	Src/main.c	/^void UART_Printf(const char* fmt, ...) {$/;"	f	typeref:typename:void
+UID_BASE_ADDRESS	Inc/stm32g0xx_ll_utils.h	/^#define UID_BASE_ADDRESS /;"	d
+UIPR	Inc/w5500.h	/^#define UIPR /;"	d
+UPORTR	Inc/w5500.h	/^#define UPORTR /;"	d
+URI	Inc/httpParser.h	/^	uint8_t	URI[MAX_URI_SIZE];			\/**< request file name.             *\/$/;"	m	struct:_st_http_request	typeref:typename:uint8_t[]
+USART1_IRQHandler	Src/main.c	/^void USART1_IRQHandler(void)$/;"	f	typeref:typename:void
+USE_HAL_ADC_REGISTER_CALLBACKS	Inc/stm32g0xx_hal_conf.h	/^#define USE_HAL_ADC_REGISTER_CALLBACKS /;"	d
+USE_HAL_CEC_REGISTER_CALLBACKS	Inc/stm32g0xx_hal_conf.h	/^#define USE_HAL_CEC_REGISTER_CALLBACKS /;"	d
+USE_HAL_COMP_REGISTER_CALLBACKS	Inc/stm32g0xx_hal_conf.h	/^#define USE_HAL_COMP_REGISTER_CALLBACKS /;"	d
+USE_HAL_CRYP_REGISTER_CALLBACKS	Inc/stm32g0xx_hal_conf.h	/^#define USE_HAL_CRYP_REGISTER_CALLBACKS /;"	d
+USE_HAL_CRYP_SUSPEND_RESUME	Inc/stm32g0xx_hal_conf.h	/^#define USE_HAL_CRYP_SUSPEND_RESUME /;"	d
+USE_HAL_DAC_REGISTER_CALLBACKS	Inc/stm32g0xx_hal_conf.h	/^#define USE_HAL_DAC_REGISTER_CALLBACKS /;"	d
+USE_HAL_FDCAN_REGISTER_CALLBACKS	Inc/stm32g0xx_hal_conf.h	/^#define USE_HAL_FDCAN_REGISTER_CALLBACKS /;"	d
+USE_HAL_HCD_REGISTER_CALLBACKS	Inc/stm32g0xx_hal_conf.h	/^#define USE_HAL_HCD_REGISTER_CALLBACKS /;"	d
+USE_HAL_I2C_REGISTER_CALLBACKS	Inc/stm32g0xx_hal_conf.h	/^#define USE_HAL_I2C_REGISTER_CALLBACKS /;"	d
+USE_HAL_I2S_REGISTER_CALLBACKS	Inc/stm32g0xx_hal_conf.h	/^#define USE_HAL_I2S_REGISTER_CALLBACKS /;"	d
+USE_HAL_IRDA_REGISTER_CALLBACKS	Inc/stm32g0xx_hal_conf.h	/^#define USE_HAL_IRDA_REGISTER_CALLBACKS /;"	d
+USE_HAL_LPTIM_REGISTER_CALLBACKS	Inc/stm32g0xx_hal_conf.h	/^#define USE_HAL_LPTIM_REGISTER_CALLBACKS /;"	d
+USE_HAL_PCD_REGISTER_CALLBACKS	Inc/stm32g0xx_hal_conf.h	/^#define USE_HAL_PCD_REGISTER_CALLBACKS /;"	d
+USE_HAL_RNG_REGISTER_CALLBACKS	Inc/stm32g0xx_hal_conf.h	/^#define USE_HAL_RNG_REGISTER_CALLBACKS /;"	d
+USE_HAL_RTC_REGISTER_CALLBACKS	Inc/stm32g0xx_hal_conf.h	/^#define USE_HAL_RTC_REGISTER_CALLBACKS /;"	d
+USE_HAL_SMBUS_REGISTER_CALLBACKS	Inc/stm32g0xx_hal_conf.h	/^#define USE_HAL_SMBUS_REGISTER_CALLBACKS /;"	d
+USE_HAL_SPI_REGISTER_CALLBACKS	Inc/stm32g0xx_hal_conf.h	/^#define USE_HAL_SPI_REGISTER_CALLBACKS /;"	d
+USE_HAL_TIM_REGISTER_CALLBACKS	Inc/stm32g0xx_hal_conf.h	/^#define USE_HAL_TIM_REGISTER_CALLBACKS /;"	d
+USE_HAL_UART_REGISTER_CALLBACKS	Inc/stm32g0xx_hal_conf.h	/^#define USE_HAL_UART_REGISTER_CALLBACKS /;"	d
+USE_HAL_USART_REGISTER_CALLBACKS	Inc/stm32g0xx_hal_conf.h	/^#define USE_HAL_USART_REGISTER_CALLBACKS /;"	d
+USE_HAL_WWDG_REGISTER_CALLBACKS	Inc/stm32g0xx_hal_conf.h	/^#define USE_HAL_WWDG_REGISTER_CALLBACKS /;"	d
+USE_RTOS	Inc/stm32g0xx_hal_conf.h	/^#define  USE_RTOS /;"	d
+USE_SPI_CRC	Inc/stm32g0xx_hal_conf.h	/^#define USE_SPI_CRC /;"	d
+U_ID	Src/main.c	/^#define U_ID /;"	d	file:
+VDD_VALUE	Inc/stm32g0xx_hal_conf.h	/^#define  VDD_VALUE /;"	d
+VECT_TAB_OFFSET	Src/system_stm32g0xx.c	/^#define VECT_TAB_OFFSET /;"	d	file:
+VERSIONR	Inc/w5500.h	/^#define VERSIONR /;"	d
+W5100	Inc/wizchip_conf.h	/^#define W5100	/;"	d
+W5100S	Inc/wizchip_conf.h	/^#define W5100S	/;"	d
+W5200	Inc/wizchip_conf.h	/^#define W5200	/;"	d
+W5300	Inc/wizchip_conf.h	/^#define W5300	/;"	d
+W5500	Inc/wizchip_conf.h	/^#define W5500	/;"	d
+W5500_ReadBuff	Src/main.c	/^void W5500_ReadBuff(uint8_t* buff, uint16_t len) {$/;"	f	typeref:typename:void
+W5500_ReadByte	Src/main.c	/^uint8_t W5500_ReadByte(void) {$/;"	f	typeref:typename:uint8_t
+W5500_Select	Src/main.c	/^void W5500_Select(void) {$/;"	f	typeref:typename:void
+W5500_Unselect	Src/main.c	/^void W5500_Unselect(void) {$/;"	f	typeref:typename:void
+W5500_WriteBuff	Src/main.c	/^void W5500_WriteBuff(uint8_t* buff, uint16_t len) {$/;"	f	typeref:typename:void
+W5500_WriteByte	Src/main.c	/^void W5500_WriteByte(uint8_t byte) {$/;"	f	typeref:typename:void
+WIZCHIP	Src/wizchip_conf.c	/^_WIZCHIP  WIZCHIP =$/;"	v	typeref:typename:_WIZCHIP
+WIZCHIP_CREG_BLOCK	Inc/w5500.h	/^#define WIZCHIP_CREG_BLOCK /;"	d
+WIZCHIP_CRITICAL_ENTER	Inc/w5500.h	/^#define WIZCHIP_CRITICAL_ENTER(/;"	d
+WIZCHIP_CRITICAL_EXIT	Inc/w5500.h	/^#define WIZCHIP_CRITICAL_EXIT(/;"	d
+WIZCHIP_OFFSET_INC	Inc/w5500.h	/^#define WIZCHIP_OFFSET_INC(/;"	d
+WIZCHIP_READ	Src/w5500.c	/^uint8_t  WIZCHIP_READ(uint32_t AddrSel)$/;"	f	typeref:typename:uint8_t
+WIZCHIP_READ_BUF	Src/w5500.c	/^void     WIZCHIP_READ_BUF (uint32_t AddrSel, uint8_t* pBuf, uint16_t len)$/;"	f	typeref:typename:void
+WIZCHIP_RXBUF_BLOCK	Inc/w5500.h	/^#define WIZCHIP_RXBUF_BLOCK(/;"	d
+WIZCHIP_SREG_BLOCK	Inc/w5500.h	/^#define WIZCHIP_SREG_BLOCK(/;"	d
+WIZCHIP_TXBUF_BLOCK	Inc/w5500.h	/^#define WIZCHIP_TXBUF_BLOCK(/;"	d
+WIZCHIP_WRITE	Src/w5500.c	/^void     WIZCHIP_WRITE(uint32_t AddrSel, uint8_t wb )$/;"	f	typeref:typename:void
+WIZCHIP_WRITE_BUF	Src/w5500.c	/^void     WIZCHIP_WRITE_BUF(uint32_t AddrSel, uint8_t* pBuf, uint16_t len)$/;"	f	typeref:typename:void
+_CRIS	Inc/wizchip_conf.h	/^   struct _CRIS$/;"	s	struct:__WIZCHIP
+_CS	Inc/wizchip_conf.h	/^   struct _CS$/;"	s	struct:__WIZCHIP
+_DHCP_	Src/wizchip_conf.c	/^static dhcp_mode  _DHCP_;        \/\/ DHCP mode$/;"	v	typeref:typename:dhcp_mode	file:
+_DHCP_H_	Inc/dhcp.h	/^#define _DHCP_H_$/;"	d
+_DNS_	Src/wizchip_conf.c	/^static uint8_t    _DNS_[4];      \/\/ DNS server ip address$/;"	v	typeref:typename:uint8_t[4]	file:
+_DNS_H_	Inc/dns.h	/^#define	_DNS_H_$/;"	d
+_HTTPSERVER_DEBUG_	Inc/httpServer.h	/^#define _HTTPSERVER_DEBUG_$/;"	d
+_IF	Inc/wizchip_conf.h	/^   union _IF$/;"	u	struct:__WIZCHIP
+_IMR_	Inc/w5500.h	/^#define _IMR_ /;"	d
+_NOTUSED_STORAGE_	Inc/httpServer.h	/^#define _NOTUSED_STORAGE_$/;"	d
+_RCR_	Inc/w5500.h	/^#define _RCR_ /;"	d
+_RTR_	Inc/w5500.h	/^#define _RTR_ /;"	d
+_SOCKET_H_	Inc/socket.h	/^#define _SOCKET_H_$/;"	d
+_STM32_EEPROM_SPI_H	Inc/STM32_EEPROM_SPI.h	/^#define _STM32_EEPROM_SPI_H$/;"	d
+_W5500_H_	Inc/w5500.h	/^#define  _W5500_H_$/;"	d
+_W5500_IO_BASE_	Inc/w5500.h	/^#define _W5500_IO_BASE_ /;"	d
+_W5500_SPI_FDM_OP_LEN1_	Src/w5500.c	/^#define _W5500_SPI_FDM_OP_LEN1_ /;"	d	file:
+_W5500_SPI_FDM_OP_LEN2_	Src/w5500.c	/^#define _W5500_SPI_FDM_OP_LEN2_ /;"	d	file:
+_W5500_SPI_FDM_OP_LEN4_	Src/w5500.c	/^#define _W5500_SPI_FDM_OP_LEN4_ /;"	d	file:
+_W5500_SPI_READ_	Inc/w5500.h	/^#define _W5500_SPI_READ_	/;"	d
+_W5500_SPI_VDM_OP_	Src/w5500.c	/^#define _W5500_SPI_VDM_OP_ /;"	d	file:
+_W5500_SPI_WRITE_	Inc/w5500.h	/^#define _W5500_SPI_WRITE_	/;"	d
+_WIZCHIP	Inc/wizchip_conf.h	/^}_WIZCHIP;$/;"	t	typeref:struct:__WIZCHIP
+_WIZCHIP_	Inc/wizchip_conf.h	/^#define _WIZCHIP_ /;"	d
+_WIZCHIP_CONF_H_	Inc/wizchip_conf.h	/^#define  _WIZCHIP_CONF_H_$/;"	d
+_WIZCHIP_ID_	Inc/wizchip_conf.h	/^   #define _WIZCHIP_ID_ /;"	d
+_WIZCHIP_IO_BASE_	Inc/wizchip_conf.h	/^	#define _WIZCHIP_IO_BASE_	/;"	d
+_WIZCHIP_IO_BASE_	Inc/wizchip_conf.h	/^#define _WIZCHIP_IO_BASE_ /;"	d
+_WIZCHIP_IO_MODE_	Inc/wizchip_conf.h	/^   	   #define _WIZCHIP_IO_MODE_ /;"	d
+_WIZCHIP_IO_MODE_BUS_	Inc/wizchip_conf.h	/^#define _WIZCHIP_IO_MODE_BUS_ /;"	d
+_WIZCHIP_IO_MODE_BUS_DIR_	Inc/wizchip_conf.h	/^#define _WIZCHIP_IO_MODE_BUS_DIR_ /;"	d
+_WIZCHIP_IO_MODE_BUS_INDIR_	Inc/wizchip_conf.h	/^#define _WIZCHIP_IO_MODE_BUS_INDIR_ /;"	d
+_WIZCHIP_IO_MODE_NONE_	Inc/wizchip_conf.h	/^#define _WIZCHIP_IO_MODE_NONE_ /;"	d
+_WIZCHIP_IO_MODE_SPI_	Inc/wizchip_conf.h	/^#define _WIZCHIP_IO_MODE_SPI_ /;"	d
+_WIZCHIP_IO_MODE_SPI_5500_	Inc/wizchip_conf.h	/^#define _WIZCHIP_IO_MODE_SPI_5500_ /;"	d
+_WIZCHIP_IO_MODE_SPI_FDM_	Inc/wizchip_conf.h	/^#define _WIZCHIP_IO_MODE_SPI_FDM_ /;"	d
+_WIZCHIP_IO_MODE_SPI_VDM_	Inc/wizchip_conf.h	/^#define _WIZCHIP_IO_MODE_SPI_VDM_ /;"	d
+_WIZCHIP_SOCK_NUM_	Inc/wizchip_conf.h	/^   #define _WIZCHIP_SOCK_NUM_ /;"	d
+__HTTPPARSER_H__	Inc/httpParser.h	/^#define	__HTTPPARSER_H__$/;"	d
+__HTTPSERVER_H__	Inc/httpServer.h	/^#define	__HTTPSERVER_H__$/;"	d
+__HTTPUTIL_H__	Inc/httpUtil.h	/^#define	__HTTPUTIL_H__$/;"	d
+__MAIN_H	Inc/main.h	/^#define __MAIN_H$/;"	d
+__STM32G0xx_IT_H	Inc/stm32g0xx_it.h	/^#define __STM32G0xx_IT_H$/;"	d
+__WIZCHIP	Inc/wizchip_conf.h	/^typedef struct __WIZCHIP$/;"	s
+__anon04976f1b0103	Inc/httpServer.h	/^{$/;"	g
+__anon4331c3010108	Src/ssd1306.c	/^typedef struct {$/;"	s	file:
+__anon56ef9da70108	Inc/wizchip_conf.h	/^      {$/;"	s	union:__WIZCHIP::_IF
+__anon56ef9da70208	Inc/wizchip_conf.h	/^      {$/;"	s	union:__WIZCHIP::_IF
+__anon56ef9da70303	Inc/wizchip_conf.h	/^{$/;"	g
+__anon56ef9da70403	Inc/wizchip_conf.h	/^{$/;"	g
+__anon56ef9da70503	Inc/wizchip_conf.h	/^{$/;"	g
+__anon56ef9da70603	Inc/wizchip_conf.h	/^{$/;"	g
+__anon56ef9da70703	Inc/wizchip_conf.h	/^{$/;"	g
+__anon85b17d8f0103	Inc/STM32_EEPROM_SPI.h	/^typedef enum {$/;"	g
+__anon9633862c010a	Src/ZEZ-24CXX.c	/^    union {$/;"	u	function:float2Bytes	file:
+__anon9633862c020a	Src/ZEZ-24CXX.c	/^    union {$/;"	u	function:Bytes2float	file:
+__anonb47e868b0108	Inc/stm32g0xx_ll_utils.h	/^{$/;"	s
+__anonb47e868b0208	Inc/stm32g0xx_ll_utils.h	/^{$/;"	s
+__anond4c1b96c0103	Src/dhcp.c	/^{$/;"	g	file:
+__anond4c1b96c0208	Src/dhcp.c	/^typedef struct {$/;"	s	file:
+__anonda664a230103	Inc/dhcp.h	/^{$/;"	g
+__anone5419a040108	Inc/DHT.h	/^typedef struct {$/;"	s
+__anone5419a040203	Inc/DHT.h	/^typedef enum {$/;"	g
+__anone5419a040308	Inc/DHT.h	/^typedef struct {$/;"	s
+__anonff98690d0103	Inc/socket.h	/^{$/;"	g
+__anonff98690d0203	Inc/socket.h	/^{$/;"	g
+__anonff98690d0303	Inc/socket.h	/^{$/;"	g
+__env	Src/syscalls.c	/^char *__env[1] = { 0 };$/;"	v	typeref:typename:char * [1]
+__sbrk_heap_end	Src/sysmem.c	/^static uint8_t *__sbrk_heap_end = NULL;$/;"	v	typeref:typename:uint8_t *	file:
+_close	Src/syscalls.c	/^int _close(int file)$/;"	f	typeref:typename:int
+_deselect	Inc/wizchip_conf.h	/^      void (*_deselect)(void);      \/\/\/< @ref \\_WIZCHIP_ deselected$/;"	m	struct:__WIZCHIP::_CS	typeref:typename:void (*)(void)
+_enter	Inc/wizchip_conf.h	/^      void (*_enter)  (void);       \/\/\/< crtical section enter $/;"	m	struct:__WIZCHIP::_CRIS	typeref:typename:void (*)(void)
+_execve	Src/syscalls.c	/^int _execve(char *name, char **argv, char **env)$/;"	f	typeref:typename:int
+_exit	Inc/wizchip_conf.h	/^      void (*_exit) (void);         \/\/\/< critial section exit  $/;"	m	struct:__WIZCHIP::_CRIS	typeref:typename:void (*)(void)
+_exit	Src/syscalls.c	/^void _exit (int status)$/;"	f	typeref:typename:void
+_fork	Src/syscalls.c	/^int _fork(void)$/;"	f	typeref:typename:int
+_fstat	Src/syscalls.c	/^int _fstat(int file, struct stat *st)$/;"	f	typeref:typename:int
+_getpid	Src/syscalls.c	/^int _getpid(void)$/;"	f	typeref:typename:int
+_httpServer_webContent	Inc/httpServer.h	/^typedef struct _httpServer_webContent$/;"	s
+_isatty	Src/syscalls.c	/^int _isatty(int file)$/;"	f	typeref:typename:int
+_kill	Src/syscalls.c	/^int _kill(int pid, int sig)$/;"	f	typeref:typename:int
+_link	Src/syscalls.c	/^int _link(char *old, char *new)$/;"	f	typeref:typename:int
+_lseek	Src/syscalls.c	/^int _lseek(int file, int ptr, int dir)$/;"	f	typeref:typename:int
+_open	Src/syscalls.c	/^int _open(char *path, int flags, ...)$/;"	f	typeref:typename:int
+_read	Src/syscalls.c	/^__attribute__((weak)) int _read(int file, char *ptr, int len)$/;"	f	typeref:typename:int
+_read_burst	Inc/wizchip_conf.h	/^         void    (*_read_burst)  (uint8_t* pBuf, uint16_t len);$/;"	m	struct:__WIZCHIP::_IF::__anon56ef9da70208	typeref:typename:void (*)(uint8_t * pBuf,uint16_t len)
+_read_byte	Inc/wizchip_conf.h	/^         uint8_t (*_read_byte)   (void);$/;"	m	struct:__WIZCHIP::_IF::__anon56ef9da70208	typeref:typename:uint8_t (*)(void)
+_read_data	Inc/wizchip_conf.h	/^         iodata_t  (*_read_data)   (uint32_t AddrSel);$/;"	m	struct:__WIZCHIP::_IF::__anon56ef9da70108	typeref:typename:iodata_t (*)(uint32_t AddrSel)
+_sbrk	Src/sysmem.c	/^void *_sbrk(ptrdiff_t incr)$/;"	f	typeref:typename:void *
+_select	Inc/wizchip_conf.h	/^      void (*_select)  (void);      \/\/\/< @ref \\_WIZCHIP_ selected$/;"	m	struct:__WIZCHIP::_CS	typeref:typename:void (*)(void)
+_st_http_request	Inc/httpParser.h	/^typedef struct _st_http_request$/;"	s
+_st_http_socket	Inc/httpServer.h	/^typedef struct _st_http_socket$/;"	s
+_stat	Src/syscalls.c	/^int _stat(char *file, struct stat *st)$/;"	f	typeref:typename:int
+_times	Src/syscalls.c	/^int _times(struct tms *buf)$/;"	f	typeref:typename:int
+_unlink	Src/syscalls.c	/^int _unlink(char *name)$/;"	f	typeref:typename:int
+_wait	Src/syscalls.c	/^int _wait(int *status)$/;"	f	typeref:typename:int
+_write	Src/syscalls.c	/^__attribute__((weak)) int _write(int file, char *ptr, int len)$/;"	f	typeref:typename:int
+_write_burst	Inc/wizchip_conf.h	/^         void    (*_write_burst) (uint8_t* pBuf, uint16_t len);$/;"	m	struct:__WIZCHIP::_IF::__anon56ef9da70208	typeref:typename:void (*)(uint8_t * pBuf,uint16_t len)
+_write_byte	Inc/wizchip_conf.h	/^         void    (*_write_byte)  (uint8_t wb);$/;"	m	struct:__WIZCHIP::_IF::__anon56ef9da70208	typeref:typename:void (*)(uint8_t wb)
+_write_data	Inc/wizchip_conf.h	/^         void      (*_write_data)  (uint32_t AddrSel, iodata_t wb);$/;"	m	struct:__WIZCHIP::_IF::__anon56ef9da70108	typeref:typename:void (*)(uint32_t AddrSel,iodata_t wb)
+a	Src/ZEZ-24CXX.c	/^      float a;$/;"	m	union:Bytes2float::__anon9633862c020a	typeref:typename:float	file:
+a	Src/ZEZ-24CXX.c	/^      float a;$/;"	m	union:float2Bytes::__anon9633862c010a	typeref:typename:float	file:
+aShowCoordinate	Src/main.c	/^uint8_t aShowCoordinate[40]  = {0};$/;"	v	typeref:typename:uint8_t[40]
+aShowDeviceID	Src/main.c	/^uint8_t aShowDeviceID[30]    = {0};$/;"	v	typeref:typename:uint8_t[30]
+aShowLotNumber	Src/main.c	/^uint8_t aShowLotNumber[30]   = {0};$/;"	v	typeref:typename:uint8_t[30]
+aShowRevisionID	Src/main.c	/^uint8_t aShowRevisionID[30]  = {0};$/;"	v	typeref:typename:uint8_t[30]
+aShowWaferNumber	Src/main.c	/^uint8_t aShowWaferNumber[30] = {0};$/;"	v	typeref:typename:uint8_t[30]
+aa	Src/dns.c	/^	uint8_t	aa;      \/* Authoratative answer *\/$/;"	m	struct:dhdr	typeref:typename:uint8_t	file:
+ad	Src/main.c	/^uint8_t  ad[4];$/;"	v	typeref:typename:uint8_t[4]
+adominio	Src/main.c	/^uint8_t adominio[40] = {0x1F, 0x20, 0x21, 0x22, 0x23,      \/\/Endereços de memória do Domíni/;"	v	typeref:typename:uint8_t[40]
+allSubnetsLocal	Src/dhcp.c	/^   allSubnetsLocal         = 27,$/;"	e	enum:__anond4c1b96c0103	file:
+amp	Src/main.c	/^const float amp[240] = {0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0./;"	v	typeref:typename:const float[240]
+amp_carga	Src/main.c	/^uint8_t  amp_carga  = 0;$/;"	v	typeref:typename:uint8_t
+amp_rede	Src/main.c	/^uint8_t  amp_rede   = 0;$/;"	v	typeref:typename:uint8_t
+ancount	Src/dns.c	/^	uint16_t ancount;	\/* Answer count *\/$/;"	m	struct:dhdr	typeref:typename:uint16_t	file:
+arcount	Src/dns.c	/^	uint16_t arcount;	\/* Additional record count *\/$/;"	m	struct:dhdr	typeref:typename:uint16_t	file:
+arpCacheTimeout	Src/dhcp.c	/^   arpCacheTimeout         = 35,$/;"	e	enum:__anond4c1b96c0103	file:
+assert_failed	Src/main.c	/^void assert_failed(uint8_t *file, uint32_t line)$/;"	f	typeref:typename:void
+assert_param	Inc/stm32g0xx_hal_conf.h	/^#define assert_param(/;"	d
+b1	Src/main.c	/^#define b1 /;"	d	file:
+b2	Src/main.c	/^#define b2 /;"	d	file:
+bootFileSize	Src/dhcp.c	/^   bootFileSize            = 13,$/;"	e	enum:__anond4c1b96c0103	file:
+broadcastAddr	Src/dhcp.c	/^   broadcastAddr           = 28,$/;"	e	enum:__anond4c1b96c0103	file:
+by	Inc/wizchip_conf.h	/^      uint8_t by;       \/\/\/< set by @ref PHY_CONFBY_HW or @ref PHY_CONFBY_SW$/;"	m	struct:wiz_PhyConf_t	typeref:typename:uint8_t
+bytes	Src/ZEZ-24CXX.c	/^      uint8_t bytes[4];$/;"	m	union:Bytes2float::__anon9633862c020a	typeref:typename:uint8_t[4]	file:
+bytes	Src/ZEZ-24CXX.c	/^      uint8_t bytes[4];$/;"	m	union:float2Bytes::__anon9633862c010a	typeref:typename:uint8_t[4]	file:
+bytes_temp	Src/ZEZ-24CXX.c	/^uint8_t bytes_temp[4];$/;"	v	typeref:typename:uint8_t[4]
+bytestowrite	Src/ZEZ-24CXX.c	/^uint16_t bytestowrite (uint16_t size, uint16_t offset)$/;"	f	typeref:typename:uint16_t
+carga	Src/main.c	/^bool     carga      = 0;$/;"	v	typeref:typename:bool
+chaddr	Src/dhcp.c	/^	uint8_t  chaddr[16];    \/\/\/< DHCP client 6bytes MAC address. Others is filled to zero$/;"	m	struct:__anond4c1b96c0208	typeref:typename:uint8_t[16]	file:
+check_DHCP_leasedIP	Src/dhcp.c	/^int8_t check_DHCP_leasedIP(void)$/;"	f	typeref:typename:int8_t
+check_DHCP_timeout	Src/dhcp.c	/^uint8_t check_DHCP_timeout(void)$/;"	f	typeref:typename:uint8_t
+ciaddr	Src/dhcp.c	/^	uint8_t  ciaddr[4];     \/\/\/< @ref Request IP to DHCP sever$/;"	m	struct:__anond4c1b96c0208	typeref:typename:uint8_t[4]	file:
+close	Src/socket.c	/^int8_t close(uint8_t sn)$/;"	f	typeref:typename:int8_t
+concathex2	Src/main.c	/^void concathex2(char *array[], unsigned char bt)$/;"	f	typeref:typename:void
+concathex4	Src/main.c	/^void concathex4(char *array[], uint16_t v)$/;"	f	typeref:typename:void
+connect	Src/socket.c	/^int8_t connect(uint8_t sn, uint8_t * addr, uint16_t port)$/;"	f	typeref:typename:int8_t
+content	Inc/httpServer.h	/^	uint8_t * 	content;$/;"	m	struct:_httpServer_webContent	typeref:typename:uint8_t *
+content_len	Inc/httpServer.h	/^	uint32_t	content_len;$/;"	m	struct:_httpServer_webContent	typeref:typename:uint32_t
+content_name	Inc/httpServer.h	/^	uint8_t	*	content_name;$/;"	m	struct:_httpServer_webContent	typeref:typename:uint8_t *
+cookieServer	Src/dhcp.c	/^   cookieServer            = 8,$/;"	e	enum:__anond4c1b96c0103	file:
+cs_pin_eep	Inc/STM32_EEPROM_SPI.h	/^#define cs_pin_eep /;"	d
+cs_port_eep	Inc/STM32_EEPROM_SPI.h	/^#define cs_port_eep /;"	d
+ctlnetwork	Src/wizchip_conf.c	/^int8_t ctlnetwork(ctlnetwork_type cntype, void* arg)$/;"	f	typeref:typename:int8_t
+ctlnetwork_type	Inc/wizchip_conf.h	/^}ctlnetwork_type;$/;"	t	typeref:enum:__anon56ef9da70403
+ctlsock_type	Inc/socket.h	/^}ctlsock_type;$/;"	t	typeref:enum:__anonff98690d0203
+ctlsocket	Src/socket.c	/^int8_t  ctlsocket(uint8_t sn, ctlsock_type cstype, void* arg)$/;"	f	typeref:typename:int8_t
+ctlwizchip	Src/wizchip_conf.c	/^int8_t ctlwizchip(ctlwizchip_type cwtype, void* arg)$/;"	f	typeref:typename:int8_t
+ctlwizchip_type	Inc/wizchip_conf.h	/^}ctlwizchip_type;$/;"	t	typeref:enum:__anon56ef9da70303
+data	Src/main.c	/^char data;                                \/\/ byte que chegou pela udp$/;"	v	typeref:typename:char
+defaultIPTTL	Src/dhcp.c	/^   defaultIPTTL            = 23,$/;"	e	enum:__anond4c1b96c0103	file:
+default_ip_assign	Src/dhcp.c	/^void default_ip_assign(void)$/;"	f	typeref:typename:void
+default_ip_conflict	Src/dhcp.c	/^void default_ip_conflict(void)$/;"	f	typeref:typename:void
+default_ip_update	Src/dhcp.c	/^void default_ip_update(void)$/;"	f	typeref:typename:void
+dhcp	Inc/wizchip_conf.h	/^   dhcp_mode dhcp;  \/\/\/< 1 - Static, 2 - DHCP$/;"	m	struct:wiz_NetInfo_t	typeref:typename:dhcp_mode
+dhcpClassIdentifier	Src/dhcp.c	/^   dhcpClassIdentifier     = 60,$/;"	e	enum:__anond4c1b96c0103	file:
+dhcpClientIdentifier	Src/dhcp.c	/^   dhcpClientIdentifier    = 61,$/;"	e	enum:__anond4c1b96c0103	file:
+dhcpIPaddrLeaseTime	Src/dhcp.c	/^   dhcpIPaddrLeaseTime     = 51,$/;"	e	enum:__anond4c1b96c0103	file:
+dhcpMaxMsgSize	Src/dhcp.c	/^   dhcpMaxMsgSize          = 57,$/;"	e	enum:__anond4c1b96c0103	file:
+dhcpMessageType	Src/dhcp.c	/^   dhcpMessageType         = 53,$/;"	e	enum:__anond4c1b96c0103	file:
+dhcpMsg	Src/dhcp.c	/^   dhcpMsg                 = 56,$/;"	e	enum:__anond4c1b96c0103	file:
+dhcpOptionOverload	Src/dhcp.c	/^   dhcpOptionOverload      = 52,$/;"	e	enum:__anond4c1b96c0103	file:
+dhcpParamRequest	Src/dhcp.c	/^   dhcpParamRequest        = 55,$/;"	e	enum:__anond4c1b96c0103	file:
+dhcpRequestedIPaddr	Src/dhcp.c	/^   dhcpRequestedIPaddr     = 50,$/;"	e	enum:__anond4c1b96c0103	file:
+dhcpServerIdentifier	Src/dhcp.c	/^   dhcpServerIdentifier    = 54,$/;"	e	enum:__anond4c1b96c0103	file:
+dhcpT1value	Src/dhcp.c	/^   dhcpT1value             = 58,$/;"	e	enum:__anond4c1b96c0103	file:
+dhcpT2value	Src/dhcp.c	/^   dhcpT2value             = 59,$/;"	e	enum:__anond4c1b96c0103	file:
+dhcp_ip_assign	Src/dhcp.c	/^void (*dhcp_ip_assign)(void)   = default_ip_assign;     \/* handler to be called when the IP add/;"	v	typeref:typename:void (*)(void)
+dhcp_ip_conflict	Src/dhcp.c	/^void (*dhcp_ip_conflict)(void) = default_ip_conflict;   \/* handler to be called when the IP add/;"	v	typeref:typename:void (*)(void)
+dhcp_ip_update	Src/dhcp.c	/^void (*dhcp_ip_update)(void)   = default_ip_update;     \/* handler to be called when the IP add/;"	v	typeref:typename:void (*)(void)
+dhcp_lease_time	Src/dhcp.c	/^uint32_t dhcp_lease_time   			= INFINITE_LEASETIME;$/;"	v	typeref:typename:uint32_t
+dhcp_mode	Inc/wizchip_conf.h	/^}dhcp_mode;$/;"	t	typeref:enum:__anon56ef9da70603
+dhcp_retry_count	Src/dhcp.c	/^int8_t   dhcp_retry_count  = 0;                 $/;"	v	typeref:typename:int8_t
+dhcp_state	Src/dhcp.c	/^int8_t   dhcp_state        = STATE_DHCP_INIT;   \/\/ DHCP state$/;"	v	typeref:typename:int8_t
+dhcp_tick_1s	Src/dhcp.c	/^volatile uint32_t dhcp_tick_1s      = 0;                 \/\/ unit 1 second$/;"	v	typeref:typename:volatile uint32_t
+dhcp_tick_next	Src/dhcp.c	/^uint32_t dhcp_tick_next    			= DHCP_WAIT_TIME ;$/;"	v	typeref:typename:uint32_t
+dhdr	Src/dns.c	/^struct dhdr$/;"	s	file:
+dht	Src/main.c	/^void dht(void){$/;"	f	typeref:typename:void
+dht11	Src/main.c	/^char dht11[6];$/;"	v	typeref:typename:char[6]
+disconnect	Src/socket.c	/^int8_t disconnect(uint8_t sn)$/;"	f	typeref:typename:int8_t
+dns	Inc/wizchip_conf.h	/^   uint8_t dns[4];  \/\/\/< DNS server IP Address$/;"	m	struct:wiz_NetInfo_t	typeref:typename:uint8_t[4]
+dns	Src/dhcp.c	/^   dns                     = 6,$/;"	e	enum:__anond4c1b96c0103	file:
+dns_1s_tick	Src/dns.c	/^uint32_t dns_1s_tick;   \/\/ for timout of DNS processing$/;"	v	typeref:typename:uint32_t
+dns_answer	Src/dns.c	/^uint8_t * dns_answer(uint8_t * msg, uint8_t * cp, uint8_t * ip_from_dns)$/;"	f	typeref:typename:uint8_t *
+dns_buffer	Src/main.c	/^uint8_t dns_buffer[256];$/;"	v	typeref:typename:uint8_t[256]
+dns_question	Src/dns.c	/^uint8_t * dns_question(uint8_t * msg, uint8_t * cp)$/;"	f	typeref:typename:uint8_t *
+dns_server	Src/main.c	/^uint8_t  dns_server[4] = {8,8,8,8};                        \/\/ DNS server$/;"	v	typeref:typename:uint8_t[4]
+dnscont	Src/main.c	/^uint8_t dnscont;$/;"	v	typeref:typename:uint8_t
+dnstimeout	Src/main.c	/^uint16_t dnstimeout = 65000;$/;"	v	typeref:typename:uint16_t
+docrc	Src/main.c	/^void docrc(char *array_out[], char *array_in[], int len)$/;"	f	typeref:typename:void
+domainName	Src/dhcp.c	/^   domainName              = 15,$/;"	e	enum:__anond4c1b96c0103	file:
+dominio	Src/main.c	/^char    dominio[60];$/;"	v	typeref:typename:char[60]
+duplex	Inc/wizchip_conf.h	/^      uint8_t duplex;   \/\/\/< set by @ref PHY_DUPLEX_HALF @ref PHY_DUPLEX_FULL $/;"	m	struct:wiz_PhyConf_t	typeref:typename:uint8_t
+dut_carga	Src/main.c	/^uint16_t dut_carga  = 0;$/;"	v	typeref:typename:uint16_t
+endOption	Src/dhcp.c	/^   endOption               = 255$/;"	e	enum:__anond4c1b96c0103	file:
+energ	Src/main.c	/^char     energ      = 'X';$/;"	v	typeref:typename:char
+energia	Src/main.c	/^char energia[] = {"        "};$/;"	v	typeref:typename:char[]
+enviaUDP	Src/main.c	/^void enviaUDP(char *mensagem[],char *crc[], int len)$/;"	f	typeref:typename:void
+environ	Src/syscalls.c	/^char **environ = __env;$/;"	v	typeref:typename:char **
+ethernetEncapsulation	Src/dhcp.c	/^   ethernetEncapsulation   = 36,$/;"	e	enum:__anond4c1b96c0103	file:
+extentionsPath	Src/dhcp.c	/^   extentionsPath          = 18,$/;"	e	enum:__anond4c1b96c0103	file:
+fan1	Src/main.c	/^#define fan1 /;"	d	file:
+fan1_cont	Src/main.c	/^uint8_t fan1_cont = 5;$/;"	v	typeref:typename:uint8_t
+fan1_stat	Src/main.c	/^bool     fan1_stat 	= 0;		$/;"	v	typeref:typename:bool
+fan2	Src/main.c	/^#define fan2 /;"	d	file:
+fan2_cont	Src/main.c	/^uint8_t fan2_cont = 5;$/;"	v	typeref:typename:uint8_t
+fan2_stat	Src/main.c	/^bool     fan2_stat 	= 0;$/;"	v	typeref:typename:bool
+file	Src/dhcp.c	/^	uint8_t  file[128];     \/\/\/< No use$/;"	m	struct:__anond4c1b96c0208	typeref:typename:uint8_t[128]	file:
+file_len	Inc/httpServer.h	/^	uint32_t 		file_len;$/;"	m	struct:_st_http_socket	typeref:typename:uint32_t
+file_name	Inc/httpServer.h	/^	uint8_t			file_name[MAX_CONTENT_NAME_LEN];$/;"	m	struct:_st_http_socket	typeref:typename:uint8_t[]
+file_offset	Inc/httpServer.h	/^	uint32_t 		file_offset; \/\/ (start addr + sent size...)$/;"	m	struct:_st_http_socket	typeref:typename:uint32_t
+file_start	Inc/httpServer.h	/^	uint32_t 		file_start;$/;"	m	struct:_st_http_socket	typeref:typename:uint32_t
+filtro	Src/main.c	/^uint32_t filtro = Tfiltro;$/;"	v	typeref:typename:uint32_t
+find_http_uri_type	Src/httpParser.c	/^void find_http_uri_type($/;"	f	typeref:typename:void
+flags	Src/dhcp.c	/^	uint16_t flags;         \/\/\/< @ref DHCP_FLAGSBROADCAST or @ref DHCP_FLAGSUNICAST$/;"	m	struct:__anond4c1b96c0208	typeref:typename:uint16_t	file:
+float2Bytes	Src/ZEZ-24CXX.c	/^void float2Bytes(uint8_t * ftoa_bytes_temp,float float_variable)$/;"	f	typeref:typename:void
+get16	Src/dns.c	/^uint16_t get16(uint8_t * s)$/;"	f	typeref:typename:uint16_t
+getDHCPLeasetime	Src/dhcp.c	/^uint32_t getDHCPLeasetime(void)$/;"	f	typeref:typename:uint32_t
+getDNSfromDHCP	Src/dhcp.c	/^void getDNSfromDHCP(uint8_t* ip)$/;"	f	typeref:typename:void
+getGAR	Inc/w5500.h	/^#define getGAR(/;"	d
+getGWfromDHCP	Src/dhcp.c	/^void getGWfromDHCP(uint8_t* ip)$/;"	f	typeref:typename:void
+getIMR	Inc/w5500.h	/^#define getIMR(/;"	d
+getINTLEVEL	Inc/w5500.h	/^#define getINTLEVEL(/;"	d
+getIPfromDHCP	Src/dhcp.c	/^void getIPfromDHCP(uint8_t* ip)$/;"	f	typeref:typename:void
+getIR	Inc/w5500.h	/^#define getIR(/;"	d
+getLine	Src/DHT.c	/^#define getLine(/;"	d	file:
+getMR	Inc/w5500.h	/^#define getMR(/;"	d
+getPHAR	Inc/w5500.h	/^#define getPHAR(/;"	d
+getPHYCFGR	Inc/w5500.h	/^#define getPHYCFGR(/;"	d
+getPMAGIC	Inc/w5500.h	/^#define getPMAGIC(/;"	d
+getPMRU	Inc/w5500.h	/^#define getPMRU(/;"	d
+getPSID	Inc/w5500.h	/^#define getPSID(/;"	d
+getPTIMER	Inc/w5500.h	/^#define getPTIMER(/;"	d
+getRCR	Inc/w5500.h	/^#define getRCR(/;"	d
+getRTR	Inc/w5500.h	/^#define getRTR(/;"	d
+getSHAR	Inc/w5500.h	/^#define getSHAR(/;"	d
+getSIMR	Inc/w5500.h	/^#define getSIMR(/;"	d
+getSIPR	Inc/w5500.h	/^#define getSIPR(/;"	d
+getSIR	Inc/w5500.h	/^#define getSIR(/;"	d
+getSNfromDHCP	Src/dhcp.c	/^void getSNfromDHCP(uint8_t* ip)$/;"	f	typeref:typename:void
+getSUBR	Inc/w5500.h	/^#define getSUBR(/;"	d
+getSn_CR	Inc/w5500.h	/^#define getSn_CR(/;"	d
+getSn_DHAR	Inc/w5500.h	/^#define getSn_DHAR(/;"	d
+getSn_DIPR	Inc/w5500.h	/^#define getSn_DIPR(/;"	d
+getSn_DPORT	Inc/w5500.h	/^#define getSn_DPORT(/;"	d
+getSn_FRAG	Inc/w5500.h	/^#define getSn_FRAG(/;"	d
+getSn_IMR	Inc/w5500.h	/^#define getSn_IMR(/;"	d
+getSn_IR	Inc/w5500.h	/^#define getSn_IR(/;"	d
+getSn_KPALVTR	Inc/w5500.h	/^#define getSn_KPALVTR(/;"	d
+getSn_MR	Inc/w5500.h	/^#define getSn_MR(/;"	d
+getSn_MSSR	Inc/w5500.h	/^#define getSn_MSSR(/;"	d
+getSn_PORT	Inc/w5500.h	/^#define getSn_PORT(/;"	d
+getSn_RXBUF_SIZE	Inc/w5500.h	/^#define getSn_RXBUF_SIZE(/;"	d
+getSn_RX_RD	Inc/w5500.h	/^#define getSn_RX_RD(/;"	d
+getSn_RX_RSR	Src/w5500.c	/^uint16_t getSn_RX_RSR(uint8_t sn)$/;"	f	typeref:typename:uint16_t
+getSn_RX_WR	Inc/w5500.h	/^#define getSn_RX_WR(/;"	d
+getSn_RxMAX	Inc/w5500.h	/^#define getSn_RxMAX(/;"	d
+getSn_SR	Inc/w5500.h	/^#define getSn_SR(/;"	d
+getSn_TOS	Inc/w5500.h	/^#define getSn_TOS(/;"	d
+getSn_TTL	Inc/w5500.h	/^#define getSn_TTL(/;"	d
+getSn_TXBUF_SIZE	Inc/w5500.h	/^#define getSn_TXBUF_SIZE(/;"	d
+getSn_TX_FSR	Src/w5500.c	/^uint16_t getSn_TX_FSR(uint8_t sn)$/;"	f	typeref:typename:uint16_t
+getSn_TX_RD	Inc/w5500.h	/^#define getSn_TX_RD(/;"	d
+getSn_TX_WR	Inc/w5500.h	/^#define getSn_TX_WR(/;"	d
+getSn_TxMAX	Inc/w5500.h	/^#define getSn_TxMAX(/;"	d
+getUIPR	Inc/w5500.h	/^#define getUIPR(/;"	d
+getUPORTR	Inc/w5500.h	/^#define getUPORTR(/;"	d
+getVERSIONR	Inc/w5500.h	/^#define getVERSIONR(/;"	d
+get_http_param_value	Src/httpParser.c	/^uint8_t * get_http_param_value($/;"	f	typeref:typename:uint8_t *
+get_http_param_value	Src/httpParser.c	/^uint8_t * get_http_param_value(char* uri, char* param_name)$/;"	f	typeref:typename:uint8_t *
+get_http_uri_name	Src/httpParser.c	/^uint8_t * get_http_uri_name(uint8_t * uri)$/;"	f	typeref:typename:uint8_t *
+get_http_uri_name	Src/httpParser.c	/^uint8_t get_http_uri_name(uint8_t * uri, uint8_t * uri_buf)$/;"	f	typeref:typename:uint8_t
+getsockopt	Src/socket.c	/^int8_t  getsockopt(uint8_t sn, sockopt_type sotype, void* arg)$/;"	f	typeref:typename:int8_t
+gg0	Src/main.c	/^char gg0[]= {"---"};$/;"	v	typeref:typename:char[]
+gg1	Src/main.c	/^char gg1[]= {"---"};$/;"	v	typeref:typename:char[]
+gg2	Src/main.c	/^char gg2[]= {"---"};$/;"	v	typeref:typename:char[]
+gg3	Src/main.c	/^char gg3[]= {"---"};$/;"	v	typeref:typename:char[]
+giaddr	Src/dhcp.c	/^	uint8_t  giaddr[4];     \/\/\/< No use$/;"	m	struct:__anond4c1b96c0208	typeref:typename:uint8_t[4]	file:
+goToInput	Src/DHT.c	/^static void goToInput(DHT_sensor *sensor) {$/;"	f	typeref:typename:void	file:
+goToOutput	Src/DHT.c	/^static void goToOutput(DHT_sensor *sensor) {$/;"	f	typeref:typename:void	file:
+gw	Inc/wizchip_conf.h	/^   uint8_t gw[4];   \/\/\/< Gateway IP Address$/;"	m	struct:wiz_NetInfo_t	typeref:typename:uint8_t[4]
+gw_l	Src/main.c	/^uint8_t  gw_l[4] = {192,168,4,254};                        \/\/ Gateway$/;"	v	typeref:typename:uint8_t[4]
+hadc1	Src/main.c	/^ADC_HandleTypeDef hadc1;$/;"	v	typeref:typename:ADC_HandleTypeDef
+hcrc	Src/main.c	/^CRC_HandleTypeDef hcrc;$/;"	v	typeref:typename:CRC_HandleTypeDef
+hdma_adc1	Src/main.c	/^DMA_HandleTypeDef hdma_adc1;$/;"	v	typeref:typename:DMA_HandleTypeDef
+hextochar	Src/main.c	/^int hextochar(char c1, char c2, char c3, char c4)$/;"	f	typeref:typename:int
+hi2c2	Src/main.c	/^I2C_HandleTypeDef hi2c2;$/;"	v	typeref:typename:I2C_HandleTypeDef
+hlen	Src/dhcp.c	/^	uint8_t  hlen;          \/\/\/< @ref DHCP_HLENETHERNET$/;"	m	struct:__anond4c1b96c0208	typeref:typename:uint8_t	file:
+hops	Src/dhcp.c	/^	uint8_t  hops;          \/\/\/< @ref DHCP_HOPS$/;"	m	struct:__anond4c1b96c0208	typeref:typename:uint8_t	file:
+hostName	Src/dhcp.c	/^   hostName                = 12,$/;"	e	enum:__anond4c1b96c0103	file:
+hspi1	Src/main.c	/^SPI_HandleTypeDef hspi1;$/;"	v	typeref:typename:SPI_HandleTypeDef
+htim14	Src/main.c	/^TIM_HandleTypeDef htim14;$/;"	v	typeref:typename:TIM_HandleTypeDef
+htim3	Src/main.c	/^TIM_HandleTypeDef htim3;$/;"	v	typeref:typename:TIM_HandleTypeDef
+htim6	Src/main.c	/^TIM_HandleTypeDef htim6;$/;"	v	typeref:typename:TIM_HandleTypeDef
+htim7	Src/main.c	/^TIM_HandleTypeDef htim7;$/;"	v	typeref:typename:TIM_HandleTypeDef
+httpServer_webContent	Inc/httpServer.h	/^}httpServer_webContent;$/;"	t	typeref:struct:_httpServer_webContent
+http_get_cgi_handler	Src/httpUtil.c	/^uint8_t http_get_cgi_handler(uint8_t * uri_name, uint8_t * buf, uint32_t * file_len)$/;"	f	typeref:typename:uint8_t
+http_post_cgi_handler	Src/httpUtil.c	/^uint8_t http_post_cgi_handler(uint8_t * uri_name, st_http_request * p_http_request, uint8_t * bu/;"	f	typeref:typename:uint8_t
+htype	Src/dhcp.c	/^	uint8_t  htype;         \/\/\/< @ref DHCP_HTYPE10MB or @ref DHCP_HTYPE100MB$/;"	m	struct:__anond4c1b96c0208	typeref:typename:uint8_t	file:
+huart1	Src/main.c	/^UART_HandleTypeDef huart1;$/;"	v	typeref:typename:UART_HandleTypeDef
+hum	Inc/DHT.h	/^	float hum;$/;"	m	struct:__anone5419a040108	typeref:typename:float
+id	Inc/wizchip_conf.h	/^   uint8_t   id[6];                 \/\/\/< @b WIZCHIP ID such as @b 5100, @b 5200, @b 5500, and/;"	m	struct:__WIZCHIP	typeref:typename:uint8_t[6]
+id	Src/dns.c	/^	uint16_t id;   \/* Identification *\/$/;"	m	struct:dhdr	typeref:typename:uint16_t	file:
+idt	Src/main.c	/^int idt = 1234;                           \/\/ IDT do dispositivo$/;"	v	typeref:typename:int
+ifMTU	Src/dhcp.c	/^   ifMTU                   = 26,$/;"	e	enum:__anond4c1b96c0103	file:
+if_mode	Inc/wizchip_conf.h	/^   uint16_t  if_mode;               \/\/\/< host interface mode$/;"	m	struct:__WIZCHIP	typeref:typename:uint16_t
+impressServer	Src/dhcp.c	/^   impressServer           = 10,$/;"	e	enum:__anond4c1b96c0103	file:
+inet_addr_	Src/httpParser.c	/^void inet_addr_(uint8_t * addr, uint8_t *ip)$/;"	f	typeref:typename:void
+init_udp	Src/main.c	/^void init_udp() {$/;"	f	typeref:typename:void
+initialise_monitor_handles	Src/syscalls.c	/^void initialise_monitor_handles()$/;"	f	typeref:typename:void
+intr_kind	Inc/wizchip_conf.h	/^}intr_kind;$/;"	t	typeref:enum:__anon56ef9da70503
+inv_off	Src/main.c	/^#define inv_off /;"	d	file:
+inv_on	Src/main.c	/^#define inv_on /;"	d	file:
+iodata_t	Inc/wizchip_conf.h	/^   typedef   uint8_t   iodata_t;$/;"	t	typeref:typename:uint8_t
+ip	Inc/wizchip_conf.h	/^   uint8_t ip[4];   \/\/\/< Source IP Address$/;"	m	struct:wiz_NetInfo_t	typeref:typename:uint8_t[4]
+ip_R	Src/main.c	/^uint8_t  ip_R[4] = {192,168,0,181};                        \/\/ Ultimo ip em que recebeu pacote$/;"	v	typeref:typename:uint8_t[4]
+ip_l	Src/main.c	/^uint8_t  ip_l[4] = {192,168,4,1};                          \/\/ Ip local$/;"	v	typeref:typename:uint8_t[4]
+ip_s	Src/main.c	/^uint8_t  ip_s[4]       = {192,168,4,2};                    \/\/ Ip do servidor$/;"	v	typeref:typename:uint8_t[4]
+isdom	Src/main.c	/^bool    isdom          = 0;$/;"	v	typeref:typename:bool
+key	Src/main.c	/^int key = 1234;                           \/\/ Key do dispositivo$/;"	v	typeref:typename:int
+kk0	Src/main.c	/^char kk0[]= {"---"};$/;"	v	typeref:typename:char[]
+kk1	Src/main.c	/^char kk1[]= {"---"};$/;"	v	typeref:typename:char[]
+kk2	Src/main.c	/^char kk2[]= {"---"};$/;"	v	typeref:typename:char[]
+kk3	Src/main.c	/^char kk3[]= {"---"};$/;"	v	typeref:typename:char[]
+lastHum	Inc/DHT.h	/^	float lastHum;			 \/\/Последнее значение влажности$/;"	m	struct:__anone5419a040308	typeref:typename:float
+lastPollingTime	Inc/DHT.h	/^	uint32_t lastPollingTime;\/\/Время последнего опроса датчика$/;"	m	struct:__anone5419a040308	typeref:typename:uint32_t
+lastTemp	Inc/DHT.h	/^	float lastTemp;			 \/\/Последнее значение температуры$/;"	m	struct:__anone5419a040308	typeref:typename:float
+le_eep	Src/main.c	/^void le_eep(void)$/;"	f	typeref:typename:void
+ledvd_off	Src/main.c	/^#define ledvd_off /;"	d	file:
+ledvd_on	Src/main.c	/^#define ledvd_on /;"	d	file:
+ledvm_off	Src/main.c	/^#define ledvm_off /;"	d	file:
+ledvm_on	Src/main.c	/^#define ledvm_on /;"	d	file:
+len	Src/main.c	/^uint8_t len;                                  \/\/ Tamanho do pacote recebido$/;"	v	typeref:typename:uint8_t
+lineDown	Src/DHT.c	/^#define lineDown(/;"	d	file:
+lineUp	Src/DHT.c	/^#define lineUp(/;"	d	file:
+listen	Src/socket.c	/^int8_t listen(uint8_t sn)$/;"	f	typeref:typename:int8_t
+livingRoom	Src/main.c	/^static DHT_sensor livingRoom = {GPIOB, GPIO_PIN_2, DHT11, 0};$/;"	v	typeref:typename:DHT_sensor	file:
+logServer	Src/dhcp.c	/^   logServer               = 7,$/;"	e	enum:__anond4c1b96c0103	file:
+lprServer	Src/dhcp.c	/^   lprServer               = 9,$/;"	e	enum:__anond4c1b96c0103	file:
+m1	Src/main.c	/^float m1=0;$/;"	v	typeref:typename:float
+m2	Src/main.c	/^float m2=0;$/;"	v	typeref:typename:float
+m3	Src/main.c	/^float m3=0;$/;"	v	typeref:typename:float
+mac	Inc/wizchip_conf.h	/^   uint8_t mac[6];  \/\/\/< Source Mac Address$/;"	m	struct:wiz_NetInfo_t	typeref:typename:uint8_t[6]
+mac	Src/main.c	/^uint8_t mac[6]   = { 0xEA, 0x11, 0x22, 0x33, 0x44, 0xEA }; \/\/ MAC address$/;"	v	typeref:typename:uint8_t[6]
+main	Src/main.c	/^int main(void)$/;"	f	typeref:typename:int
+makeDHCPMSG	Src/dhcp.c	/^void makeDHCPMSG(void)$/;"	f	typeref:typename:void
+make_http_response_head	Src/httpParser.c	/^void make_http_response_head($/;"	f	typeref:typename:void
+maskSupplier	Src/dhcp.c	/^   maskSupplier            = 30,$/;"	e	enum:__anond4c1b96c0103	file:
+maxDgramReasmSize	Src/dhcp.c	/^   maxDgramReasmSize       = 22,$/;"	e	enum:__anond4c1b96c0103	file:
+meritDumpFile	Src/dhcp.c	/^   meritDumpFile           = 14,$/;"	e	enum:__anond4c1b96c0103	file:
+mid	Src/httpParser.c	/^void mid(char* src, char* s1, char* s2, char* sub)$/;"	f	typeref:typename:void
+mk_l	Src/main.c	/^uint8_t  mk_l[4] = {255,255,255,0};                        \/\/ NetMask$/;"	v	typeref:typename:uint8_t[4]
+mm0	Src/main.c	/^char mm0[]= {"---"};$/;"	v	typeref:typename:char[]
+mm1	Src/main.c	/^char mm1[]= {"---"};$/;"	v	typeref:typename:char[]
+mm2	Src/main.c	/^char mm2[]= {"---"};$/;"	v	typeref:typename:char[]
+mm3	Src/main.c	/^char mm3[]= {"---"};$/;"	v	typeref:typename:char[]
+mn0	Src/main.c	/^char mn0[]= {"---"};$/;"	v	typeref:typename:char[]
+mn1	Src/main.c	/^char mn1[]= {"---"};$/;"	v	typeref:typename:char[]
+mn2	Src/main.c	/^char mn2[]= {"---"};$/;"	v	typeref:typename:char[]
+mn3	Src/main.c	/^char mn3[]= {"---"};$/;"	v	typeref:typename:char[]
+mode	Inc/wizchip_conf.h	/^      uint8_t mode;     \/\/\/< set by @ref PHY_MODE_MANUAL or @ref PHY_MODE_AUTONEGO$/;"	m	struct:wiz_PhyConf_t	typeref:typename:uint8_t
+modo_prog	Src/main.c	/^bool modo_prog    = 0;                    \/\/ Indica se o nobreak irá aceitar configurações$/;"	v	typeref:typename:bool
+monta_info	Src/main.c	/^void monta_info(void)$/;"	f	typeref:typename:void
+monta_ipL	Src/main.c	/^void monta_ipL(void)$/;"	f	typeref:typename:void
+monta_ipS	Src/main.c	/^void monta_ipS(void)$/;"	f	typeref:typename:void
+monta_status	Src/main.c	/^void monta_status(void)$/;"	f	typeref:typename:void
+msg1	Src/main.c	/^char msg1[6];$/;"	v	typeref:typename:char[6]
+msg2	Src/main.c	/^char msg2[6];$/;"	v	typeref:typename:char[6]
+msg3	Src/main.c	/^char msg3[6];$/;"	v	typeref:typename:char[6]
+msg4	Src/main.c	/^char msg4[6];$/;"	v	typeref:typename:char[6]
+msg5	Src/main.c	/^char msg5[100] = {"---"};$/;"	v	typeref:typename:char[100]
+nameServer	Src/dhcp.c	/^   nameServer              = 5,$/;"	e	enum:__anond4c1b96c0103	file:
+netBIOSdgramDistServer	Src/dhcp.c	/^   netBIOSdgramDistServer	= 45,$/;"	e	enum:__anond4c1b96c0103	file:
+netBIOSnameServer	Src/dhcp.c	/^   netBIOSnameServer       = 44,$/;"	e	enum:__anond4c1b96c0103	file:
+netBIOSnodeType	Src/dhcp.c	/^   netBIOSnodeType         = 46,$/;"	e	enum:__anond4c1b96c0103	file:
+netBIOSscope	Src/dhcp.c	/^   netBIOSscope            = 47,$/;"	e	enum:__anond4c1b96c0103	file:
+netmode_type	Inc/wizchip_conf.h	/^}netmode_type;$/;"	t	typeref:enum:__anon56ef9da70703
+nisDomainName	Src/dhcp.c	/^   nisDomainName           = 40,$/;"	e	enum:__anond4c1b96c0103	file:
+nisServers	Src/dhcp.c	/^   nisServers              = 41,$/;"	e	enum:__anond4c1b96c0103	file:
+nonLocalSourceRouting	Src/dhcp.c	/^   nonLocalSourceRouting   = 20,$/;"	e	enum:__anond4c1b96c0103	file:
+nscount	Src/dns.c	/^	uint16_t nscount;	\/* Authority (name server) count *\/$/;"	m	struct:dhdr	typeref:typename:uint16_t	file:
+ntpServers	Src/dhcp.c	/^   ntpServers              = 42,$/;"	e	enum:__anond4c1b96c0103	file:
+op	Src/dhcp.c	/^	uint8_t  op;            \/\/\/< @ref DHCP_BOOTREQUEST or @ref DHCP_BOOTREPLY$/;"	m	struct:__anond4c1b96c0208	typeref:typename:uint8_t	file:
+opcode	Src/dns.c	/^	uint8_t	opcode;$/;"	m	struct:dhdr	typeref:typename:uint8_t	file:
+opt	Src/main.c	/^#define opt /;"	d	file:
+pDHCPMSG	Src/dhcp.c	/^RIP_MSG* pDHCPMSG;      \/\/ Buffer pointer for DHCP processing$/;"	v	typeref:typename:RIP_MSG *
+pDNSMSG	Src/dns.c	/^uint8_t* pDNSMSG;       \/\/ DNS message buffer$/;"	v	typeref:typename:uint8_t *
+padOption	Src/dhcp.c	/^   padOption               = 0,$/;"	e	enum:__anond4c1b96c0103	file:
+parseDHCPMSG	Src/dhcp.c	/^int8_t parseDHCPMSG(void)$/;"	f	typeref:typename:int8_t
+parseDNSMSG	Src/dns.c	/^int8_t parseDNSMSG(struct dhdr * pdhdr, uint8_t * pbuf, uint8_t * ip_from_dns)$/;"	f	typeref:typename:int8_t
+parse_http_request	Src/httpParser.c	/^void parse_http_request($/;"	f	typeref:typename:void
+parse_name	Src/dns.c	/^int parse_name(uint8_t * msg, uint8_t * compressed, char * buf, int16_t len)$/;"	f	typeref:typename:int
+pathMTUagingTimeout	Src/dhcp.c	/^   pathMTUagingTimeout     = 24,$/;"	e	enum:__anond4c1b96c0103	file:
+pathMTUplateauTable	Src/dhcp.c	/^   pathMTUplateauTable     = 25,$/;"	e	enum:__anond4c1b96c0103	file:
+performMaskDiscovery	Src/dhcp.c	/^   performMaskDiscovery    = 29,$/;"	e	enum:__anond4c1b96c0103	file:
+performRouterDiscovery	Src/dhcp.c	/^   performRouterDiscovery  = 31,$/;"	e	enum:__anond4c1b96c0103	file:
+policyFilter	Src/dhcp.c	/^   policyFilter            = 21,$/;"	e	enum:__anond4c1b96c0103	file:
+port_R	Src/main.c	/^uint16_t port_R  = 2112;                                   \/\/ Ultima porta que recebeu pacote$/;"	v	typeref:typename:uint16_t
+port_l	Src/main.c	/^uint16_t port_l  = 9292;                                   \/\/ Porta Local$/;"	v	typeref:typename:uint16_t
+port_s	Src/main.c	/^uint16_t port_s        = 9291;                             \/\/ Porta do servidor$/;"	v	typeref:typename:uint16_t
+pp0	Src/main.c	/^char pp0[]= {"----"};$/;"	v	typeref:typename:char[]
+pp1	Src/main.c	/^char pp1[]= {"----"};$/;"	v	typeref:typename:char[]
+pullUp	Inc/DHT.h	/^	uint8_t pullUp;			\/\/Нужна ли подтяжка к питанию (0 - нет, 1 - да)$/;"	m	struct:__anone5419a040308	typeref:typename:uint8_t
+put16	Src/dns.c	/^uint8_t * put16(uint8_t * s, uint16_t i)$/;"	f	typeref:typename:uint8_t *
+qdcount	Src/dns.c	/^	uint16_t qdcount;	\/* Question count *\/$/;"	m	struct:dhdr	typeref:typename:uint16_t	file:
+qr	Src/dns.c	/^	uint8_t	qr;      \/* Query\/Response *\/$/;"	m	struct:dhdr	typeref:typename:uint8_t	file:
+ra	Src/dns.c	/^	uint8_t	ra;      \/* Recursion available *\/$/;"	m	struct:dhdr	typeref:typename:uint8_t	file:
+rcode	Src/dns.c	/^	uint8_t	rcode;   \/* Response code *\/$/;"	m	struct:dhdr	typeref:typename:uint8_t	file:
+rd	Src/dns.c	/^	uint8_t	rd;      \/* Recursion desired *\/$/;"	m	struct:dhdr	typeref:typename:uint8_t	file:
+read_eeprom	Src/ZEZ-24CXX.c	/^uint8_t read_eeprom(uint16_t end)$/;"	f	typeref:typename:uint8_t
+recv	Src/socket.c	/^int32_t recv(uint8_t sn, uint8_t * buf, uint16_t len)$/;"	f	typeref:typename:int32_t
+recvfrom	Src/socket.c	/^int32_t recvfrom(uint8_t sn, uint8_t * buf, uint16_t len, uint8_t * addr, uint16_t *port)$/;"	f	typeref:typename:int32_t
+rede	Src/main.c	/^bool     rede;$/;"	v	typeref:typename:bool
+reg_dhcp_cbfunc	Src/dhcp.c	/^void reg_dhcp_cbfunc(void(*ip_assign)(void), void(*ip_update)(void), void(*ip_conflict)(void))$/;"	f	typeref:typename:void
+reg_wizchip_bus_cbfunc	Src/wizchip_conf.c	/^void reg_wizchip_bus_cbfunc(iodata_t(*bus_rb)(uint32_t addr), void (*bus_wb)(uint32_t addr, ioda/;"	f	typeref:typename:void
+reg_wizchip_cris_cbfunc	Src/wizchip_conf.c	/^void reg_wizchip_cris_cbfunc(void(*cris_en)(void), void(*cris_ex)(void))$/;"	f	typeref:typename:void
+reg_wizchip_cs_cbfunc	Src/wizchip_conf.c	/^void reg_wizchip_cs_cbfunc(void(*cs_sel)(void), void(*cs_desel)(void))$/;"	f	typeref:typename:void
+reg_wizchip_spi_cbfunc	Src/wizchip_conf.c	/^void reg_wizchip_spi_cbfunc(uint8_t (*spi_rb)(void), void (*spi_wb)(uint8_t wb))$/;"	f	typeref:typename:void
+reg_wizchip_spiburst_cbfunc	Src/wizchip_conf.c	/^void reg_wizchip_spiburst_cbfunc(void (*spi_rb)(uint8_t* pBuf, uint16_t len), void (*spi_wb)(uin/;"	f	typeref:typename:void
+rele_off	Src/main.c	/^#define rele_off /;"	d	file:
+rele_on	Src/main.c	/^#define rele_on /;"	d	file:
+replacetochar	Src/httpParser.c	/^static void replacetochar($/;"	f	typeref:typename:void	file:
+reset_DHCP_timeout	Src/dhcp.c	/^void reset_DHCP_timeout(void)$/;"	f	typeref:typename:void
+resourceLocationServer	Src/dhcp.c	/^   resourceLocationServer	= 11,$/;"	e	enum:__anond4c1b96c0103	file:
+retry_cnt	Inc/wizchip_conf.h	/^   uint8_t  retry_cnt;     \/\/\/< retry count $/;"	m	struct:wiz_NetTimeout_t	typeref:typename:uint8_t
+retry_count	Src/dns.c	/^static uint8_t retry_count;$/;"	v	typeref:typename:uint8_t	file:
+rootPath	Src/dhcp.c	/^   rootPath                = 17,$/;"	e	enum:__anond4c1b96c0103	file:
+routerSolicitationAddr	Src/dhcp.c	/^   routerSolicitationAddr  = 32,$/;"	e	enum:__anond4c1b96c0103	file:
+routersOnSubnet	Src/dhcp.c	/^   routersOnSubnet         = 3,$/;"	e	enum:__anond4c1b96c0103	file:
+secs	Src/dhcp.c	/^	uint16_t secs;          \/\/\/< @ref DHCP_SECS$/;"	m	struct:__anond4c1b96c0208	typeref:typename:uint16_t	file:
+send	Src/socket.c	/^int32_t send(uint8_t sn, uint8_t * buf, uint16_t len)$/;"	f	typeref:typename:int32_t
+send_DHCP_DECLINE	Src/dhcp.c	/^void send_DHCP_DECLINE(void)$/;"	f	typeref:typename:void
+send_DHCP_DISCOVER	Src/dhcp.c	/^void send_DHCP_DISCOVER(void)$/;"	f	typeref:typename:void
+send_DHCP_REQUEST	Src/dhcp.c	/^void send_DHCP_REQUEST(void)$/;"	f	typeref:typename:void
+send_to_server	Src/main.c	/^bool    send_to_server = 0;$/;"	v	typeref:typename:bool
+sendto	Src/socket.c	/^int32_t sendto(uint8_t sn, uint8_t * buf, uint16_t len, uint8_t * addr, uint16_t port)$/;"	f	typeref:typename:int32_t
+ser_bfm	Src/main.c	/^unsigned char ser_bfm[48];$/;"	v	typeref:typename:unsigned char[48]
+ser_pcm	Src/main.c	/^bool ser_pcm;$/;"	v	typeref:typename:bool
+ser_ptm	Src/main.c	/^unsigned char ser_ptm;$/;"	v	typeref:typename:unsigned char
+ser_rcm	Src/main.c	/^bool ser_rcm;$/;"	v	typeref:typename:bool
+setGAR	Inc/w5500.h	/^#define setGAR(/;"	d
+setIMR	Inc/w5500.h	/^#define setIMR(/;"	d
+setINTLEVEL	Inc/w5500.h	/^#define setINTLEVEL(/;"	d
+setIR	Inc/w5500.h	/^#define setIR(/;"	d
+setMR	Inc/w5500.h	/^#define setMR(/;"	d
+setPHAR	Inc/w5500.h	/^#define setPHAR(/;"	d
+setPHYCFGR	Inc/w5500.h	/^#define setPHYCFGR(/;"	d
+setPMAGIC	Inc/w5500.h	/^#define setPMAGIC(/;"	d
+setPMRU	Inc/w5500.h	/^#define setPMRU(/;"	d
+setPSID	Inc/w5500.h	/^#define setPSID(/;"	d
+setPTIMER	Inc/w5500.h	/^#define setPTIMER(/;"	d
+setRCR	Inc/w5500.h	/^#define setRCR(/;"	d
+setRTR	Inc/w5500.h	/^#define setRTR(/;"	d
+setSHAR	Inc/w5500.h	/^#define setSHAR(/;"	d
+setSIMR	Inc/w5500.h	/^#define setSIMR(/;"	d
+setSIPR	Inc/w5500.h	/^#define setSIPR(/;"	d
+setSIR	Inc/w5500.h	/^#define setSIR(/;"	d
+setSUBR	Inc/w5500.h	/^#define setSUBR(/;"	d
+setSn_CR	Inc/w5500.h	/^#define setSn_CR(/;"	d
+setSn_DHAR	Inc/w5500.h	/^#define setSn_DHAR(/;"	d
+setSn_DIPR	Inc/w5500.h	/^#define setSn_DIPR(/;"	d
+setSn_DPORT	Inc/w5500.h	/^#define setSn_DPORT(/;"	d
+setSn_FRAG	Inc/w5500.h	/^#define setSn_FRAG(/;"	d
+setSn_IMR	Inc/w5500.h	/^#define setSn_IMR(/;"	d
+setSn_IR	Inc/w5500.h	/^#define setSn_IR(/;"	d
+setSn_KPALVTR	Inc/w5500.h	/^#define setSn_KPALVTR(/;"	d
+setSn_MR	Inc/w5500.h	/^#define setSn_MR(/;"	d
+setSn_MSSR	Inc/w5500.h	/^#define setSn_MSSR(/;"	d
+setSn_PORT	Inc/w5500.h	/^#define setSn_PORT(/;"	d
+setSn_RXBUF_SIZE	Inc/w5500.h	/^#define setSn_RXBUF_SIZE(/;"	d
+setSn_RX_RD	Inc/w5500.h	/^#define setSn_RX_RD(/;"	d
+setSn_TOS	Inc/w5500.h	/^#define setSn_TOS(/;"	d
+setSn_TTL	Inc/w5500.h	/^#define setSn_TTL(/;"	d
+setSn_TXBUF_SIZE	Inc/w5500.h	/^#define setSn_TXBUF_SIZE(/;"	d
+setSn_TX_WR	Inc/w5500.h	/^#define setSn_TX_WR(/;"	d
+setsockopt	Src/socket.c	/^int8_t  setsockopt(uint8_t sn, sockopt_type sotype, void* arg)$/;"	f	typeref:typename:int8_t
+siaddr	Src/dhcp.c	/^	uint8_t  siaddr[4];     \/\/\/< No use $/;"	m	struct:__anond4c1b96c0208	typeref:typename:uint8_t[4]	file:
+sn	Inc/wizchip_conf.h	/^   uint8_t sn[4];   \/\/\/< Subnet Mask $/;"	m	struct:wiz_NetInfo_t	typeref:typename:uint8_t[4]
+sname	Src/dhcp.c	/^	uint8_t  sname[64];     \/\/\/< No use$/;"	m	struct:__anond4c1b96c0208	typeref:typename:uint8_t[64]	file:
+sock_any_port	Src/socket.c	/^static uint16_t sock_any_port = SOCK_ANY_PORT_NUM;$/;"	v	typeref:typename:uint16_t	file:
+sock_io_mode	Src/socket.c	/^static uint16_t sock_io_mode = 0;$/;"	v	typeref:typename:uint16_t	file:
+sock_is_sending	Src/socket.c	/^static uint16_t sock_is_sending = 0;$/;"	v	typeref:typename:uint16_t	file:
+sock_next_rd	Src/socket.c	/^   static uint16_t sock_next_rd[_WIZCHIP_SOCK_NUM_] ={0,};$/;"	v	typeref:typename:uint16_t[]	file:
+sock_pack_info	Src/socket.c	/^uint8_t  sock_pack_info[_WIZCHIP_SOCK_NUM_] = {0,};$/;"	v	typeref:typename:uint8_t[]
+sock_remained_byte	Src/socket.c	/^   uint8_t sock_remained_byte[_WIZCHIP_SOCK_NUM_] = {0,}; \/\/ set by wiz_recv_data()$/;"	v	typeref:typename:uint8_t[]
+sock_remained_size	Src/socket.c	/^static uint16_t sock_remained_size[_WIZCHIP_SOCK_NUM_] = {0,0,};$/;"	v	typeref:typename:uint16_t[]	file:
+sock_status	Inc/httpServer.h	/^	uint8_t			sock_status;$/;"	m	struct:_st_http_socket	typeref:typename:uint8_t
+socket	Src/socket.c	/^int8_t socket(uint8_t sn, uint8_t protocol, uint16_t port, uint8_t flag)$/;"	f	typeref:typename:int8_t
+sockint_kind	Inc/socket.h	/^}sockint_kind;$/;"	t	typeref:enum:__anonff98690d0103
+sockopt_type	Inc/socket.h	/^}sockopt_type;$/;"	t	typeref:enum:__anonff98690d0303
+speed	Inc/wizchip_conf.h	/^      uint8_t speed;    \/\/\/< set by @ref PHY_SPEED_10 or @ref PHY_SPEED_100$/;"	m	struct:wiz_PhyConf_t	typeref:typename:uint8_t
+ssd1306_I2C_Init	Src/ssd1306.c	/^void ssd1306_I2C_Init() {$/;"	f	typeref:typename:void
+ssd1306_I2C_TIMEOUT	Inc/ssd1306.h	/^#define ssd1306_I2C_TIMEOUT	/;"	d
+ssd1306_I2C_Write	Src/ssd1306.c	/^void ssd1306_I2C_Write(uint8_t address, uint8_t reg, uint8_t data) {$/;"	f	typeref:typename:void
+ssd1306_I2C_WriteMulti	Src/ssd1306.c	/^void ssd1306_I2C_WriteMulti(uint8_t address, uint8_t reg, uint8_t* data, uint16_t count) {$/;"	f	typeref:typename:void
+st_http_request	Inc/httpParser.h	/^}st_http_request;$/;"	t	typeref:struct:_st_http_request
+st_http_socket	Inc/httpServer.h	/^}st_http_socket;$/;"	t	typeref:struct:_st_http_socket
+staticRoute	Src/dhcp.c	/^   staticRoute             = 33,$/;"	e	enum:__anond4c1b96c0103	file:
+storage_type	Inc/httpServer.h	/^	uint8_t			storage_type; \/\/ Storage type; Code flash, SDcard, Data flash ...$/;"	m	struct:_st_http_socket	typeref:typename:uint8_t
+subnetMask	Src/dhcp.c	/^   subnetMask              = 1,$/;"	e	enum:__anond4c1b96c0103	file:
+swapServer	Src/dhcp.c	/^   swapServer              = 16,$/;"	e	enum:__anond4c1b96c0103	file:
+tam_dominio	Src/main.c	/^uint8_t tam_dominio    = 0;                   \/\/ Tamanho do dominio$/;"	v	typeref:typename:uint8_t
+tbh	Src/main.c	/^const unsigned char tbh[16] = {'0','1','2','3','4','5','6','7','8','9','A','B','C','D','E','F'};/;"	v	typeref:typename:const unsigned char[16]
+tc	Src/dns.c	/^	uint8_t	tc;      \/* Truncation *\/$/;"	m	struct:dhdr	typeref:typename:uint8_t	file:
+tcpDefaultTTL	Src/dhcp.c	/^   tcpDefaultTTL           = 37,$/;"	e	enum:__anond4c1b96c0103	file:
+tcpKeepaliveGarbage	Src/dhcp.c	/^   tcpKeepaliveGarbage     = 39,$/;"	e	enum:__anond4c1b96c0103	file:
+tcpKeepaliveInterval	Src/dhcp.c	/^   tcpKeepaliveInterval    = 38,$/;"	e	enum:__anond4c1b96c0103	file:
+tela	Src/main.c	/^uint8_t tela=0;$/;"	v	typeref:typename:uint8_t
+telas	Src/main.c	/^void telas(void){$/;"	f	typeref:typename:void
+temp	Inc/DHT.h	/^	float temp;$/;"	m	struct:__anone5419a040108	typeref:typename:float
+temp	Src/main.c	/^uint8_t  temp       = 0;$/;"	v	typeref:typename:uint8_t
+timeOut	Src/main.c	/^uint8_t timeOut        = 10;$/;"	v	typeref:typename:uint8_t
+timeOutLen	Src/main.c	/^uint8_t timeOutLen     = 20;$/;"	v	typeref:typename:uint8_t
+timeServer	Src/dhcp.c	/^   timeServer              = 4,$/;"	e	enum:__anond4c1b96c0103	file:
+time_100us	Inc/wizchip_conf.h	/^   uint16_t time_100us;    \/\/\/< time unit 100us$/;"	m	struct:wiz_NetTimeout_t	typeref:typename:uint16_t
+timerOffset	Src/dhcp.c	/^   timerOffset             = 2,$/;"	e	enum:__anond4c1b96c0103	file:
+tp_ativo	Src/main.c	/^uint32_t tp_ativo   = 0;$/;"	v	typeref:typename:uint32_t
+trailerEncapsulation	Src/dhcp.c	/^   trailerEncapsulation    = 34,$/;"	e	enum:__anond4c1b96c0103	file:
+trataDNS	Src/main.c	/^void trataDNS(void)$/;"	f	typeref:typename:void
+trata_carga	Src/main.c	/^void trata_carga(void)$/;"	f	typeref:typename:void
+trata_fan1	Src/main.c	/^void trata_fan1(void){$/;"	f	typeref:typename:void
+trata_fan2	Src/main.c	/^void trata_fan2(void){$/;"	f	typeref:typename:void
+trataconfig	Src/main.c	/^void trataconfig(char * buf, int len){$/;"	f	typeref:typename:void
+tratapergunta	Src/main.c	/^void tratapergunta(uint8_t * buf){$/;"	f	typeref:typename:void
+tryDNS	Src/main.c	/^uint8_t tryDNS;$/;"	v	typeref:typename:uint8_t
+type	Inc/DHT.h	/^	DHT_type type;			\/\/Тип датчика (DHT11 или DHT22)$/;"	m	struct:__anone5419a040308	typeref:typename:DHT_type
+unescape_http_url	Src/httpParser.c	/^void unescape_http_url($/;"	f	typeref:typename:void
+vendorSpecificInfo	Src/dhcp.c	/^   vendorSpecificInfo      = 43,$/;"	e	enum:__anond4c1b96c0103	file:
+version	Src/main.c	/^float version = 1.0;$/;"	v	typeref:typename:float
+volta	Src/main.c	/^uint8_t  volta      = 5;$/;"	v	typeref:typename:uint8_t
+vot_bat	Src/main.c	/^uint8_t  vot_bat    = 0;$/;"	v	typeref:typename:uint8_t
+vot_rede	Src/main.c	/^uint8_t  vot_rede   = 0;$/;"	v	typeref:typename:uint8_t
+w5500_CS_GPIO	Inc/main.h	/^#define w5500_CS_GPIO /;"	d
+w5500_CS_PIN	Inc/main.h	/^#define w5500_CS_PIN /;"	d
+wiz_NetInfo	Inc/wizchip_conf.h	/^}wiz_NetInfo;$/;"	t	typeref:struct:wiz_NetInfo_t
+wiz_NetInfo_t	Inc/wizchip_conf.h	/^typedef struct wiz_NetInfo_t$/;"	s
+wiz_NetTimeout	Inc/wizchip_conf.h	/^}wiz_NetTimeout;$/;"	t	typeref:struct:wiz_NetTimeout_t
+wiz_NetTimeout_t	Inc/wizchip_conf.h	/^typedef struct wiz_NetTimeout_t$/;"	s
+wiz_PhyConf	Inc/wizchip_conf.h	/^   }wiz_PhyConf;$/;"	t	typeref:struct:wiz_PhyConf_t
+wiz_PhyConf_t	Inc/wizchip_conf.h	/^typedef struct wiz_PhyConf_t$/;"	s
+wiz_recv_data	Src/w5500.c	/^void wiz_recv_data(uint8_t sn, uint8_t *wizdata, uint16_t len)$/;"	f	typeref:typename:void
+wiz_recv_ignore	Src/w5500.c	/^void wiz_recv_ignore(uint8_t sn, uint16_t len)$/;"	f	typeref:typename:void
+wiz_send_data	Src/w5500.c	/^void wiz_send_data(uint8_t sn, uint8_t *wizdata, uint16_t len)$/;"	f	typeref:typename:void
+wizchip_bus_readdata	Src/wizchip_conf.c	/^iodata_t wizchip_bus_readdata(uint32_t AddrSel) { return * ((volatile iodata_t *)((ptrdiff_t) Ad/;"	f	typeref:typename:iodata_t
+wizchip_bus_writedata	Src/wizchip_conf.c	/^void     wizchip_bus_writedata(uint32_t AddrSel, iodata_t wb)  { *((volatile iodata_t*)((ptrdiff/;"	f	typeref:typename:void
+wizchip_clrinterrupt	Src/wizchip_conf.c	/^void wizchip_clrinterrupt(intr_kind intr)$/;"	f	typeref:typename:void
+wizchip_cris_enter	Src/wizchip_conf.c	/^void       wizchip_cris_enter(void)           {}$/;"	f	typeref:typename:void
+wizchip_cris_exit	Src/wizchip_conf.c	/^void       wizchip_cris_exit(void)          {}$/;"	f	typeref:typename:void
+wizchip_cs_deselect	Src/wizchip_conf.c	/^void wizchip_cs_deselect(void) { }$/;"	f	typeref:typename:void
+wizchip_cs_select	Src/wizchip_conf.c	/^void wizchip_cs_select(void) {}$/;"	f	typeref:typename:void
+wizchip_getinterrupt	Src/wizchip_conf.c	/^intr_kind wizchip_getinterrupt(void)$/;"	f	typeref:typename:intr_kind
+wizchip_getinterruptmask	Src/wizchip_conf.c	/^intr_kind wizchip_getinterruptmask(void)$/;"	f	typeref:typename:intr_kind
+wizchip_getnetinfo	Src/wizchip_conf.c	/^void wizchip_getnetinfo(wiz_NetInfo* pnetinfo)$/;"	f	typeref:typename:void
+wizchip_getnetmode	Src/wizchip_conf.c	/^netmode_type wizchip_getnetmode(void)$/;"	f	typeref:typename:netmode_type
+wizchip_gettimeout	Src/wizchip_conf.c	/^void wizchip_gettimeout(wiz_NetTimeout* nettime)$/;"	f	typeref:typename:void
+wizchip_init	Src/wizchip_conf.c	/^int8_t wizchip_init(uint8_t* txsize, uint8_t* rxsize)$/;"	f	typeref:typename:int8_t
+wizchip_setinterruptmask	Src/wizchip_conf.c	/^void wizchip_setinterruptmask(intr_kind intr)$/;"	f	typeref:typename:void
+wizchip_setnetinfo	Src/wizchip_conf.c	/^void wizchip_setnetinfo(wiz_NetInfo* pnetinfo)$/;"	f	typeref:typename:void
+wizchip_setnetmode	Src/wizchip_conf.c	/^int8_t wizchip_setnetmode(netmode_type netmode)$/;"	f	typeref:typename:int8_t
+wizchip_settimeout	Src/wizchip_conf.c	/^void wizchip_settimeout(wiz_NetTimeout* nettime)$/;"	f	typeref:typename:void
+wizchip_spi_readburst	Src/wizchip_conf.c	/^void     wizchip_spi_readburst(uint8_t* pBuf, uint16_t len)     {}$/;"	f	typeref:typename:void
+wizchip_spi_readbyte	Src/wizchip_conf.c	/^uint8_t wizchip_spi_readbyte(void)        {return 0;}$/;"	f	typeref:typename:uint8_t
+wizchip_spi_writeburst	Src/wizchip_conf.c	/^void     wizchip_spi_writeburst(uint8_t* pBuf, uint16_t len) {}$/;"	f	typeref:typename:void
+wizchip_spi_writebyte	Src/wizchip_conf.c	/^void     wizchip_spi_writebyte(uint8_t wb) {}$/;"	f	typeref:typename:void
+wizchip_sw_reset	Src/wizchip_conf.c	/^void wizchip_sw_reset(void)$/;"	f	typeref:typename:void
+wizphy_getphyconf	Src/wizchip_conf.c	/^void wizphy_getphyconf(wiz_PhyConf* phyconf)$/;"	f	typeref:typename:void
+wizphy_getphylink	Src/wizchip_conf.c	/^int8_t wizphy_getphylink(void)$/;"	f	typeref:typename:int8_t
+wizphy_getphypmode	Src/wizchip_conf.c	/^int8_t wizphy_getphypmode(void)$/;"	f	typeref:typename:int8_t
+wizphy_getphystat	Src/wizchip_conf.c	/^void wizphy_getphystat(wiz_PhyConf* phyconf)$/;"	f	typeref:typename:void
+wizphy_reset	Src/wizchip_conf.c	/^void wizphy_reset(void)$/;"	f	typeref:typename:void
+wizphy_setphyconf	Src/wizchip_conf.c	/^void wizphy_setphyconf(wiz_PhyConf* phyconf)$/;"	f	typeref:typename:void
+wizphy_setphypmode	Src/wizchip_conf.c	/^int8_t wizphy_setphypmode(uint8_t pmode)$/;"	f	typeref:typename:int8_t
+write_eeprom	Src/ZEZ-24CXX.c	/^void write_eeprom(uint16_t end, uint8_t data)$/;"	f	typeref:typename:void
+x	Src/main.c	/^char x;                                   \/\/ CONTADOR DO FOR$/;"	v	typeref:typename:char
+xDisplayManager	Src/dhcp.c	/^   xDisplayManager         = 49,$/;"	e	enum:__anond4c1b96c0103	file:
+xFontServer	Src/dhcp.c	/^   xFontServer             = 48,$/;"	e	enum:__anond4c1b96c0103	file:
+xid	Src/dhcp.c	/^	uint32_t xid;           \/\/\/< @ref DHCP_XID  This increase one every DHCP transaction.$/;"	m	struct:__anond4c1b96c0208	typeref:typename:uint32_t	file:
+yiaddr	Src/dhcp.c	/^	uint8_t  yiaddr[4];     \/\/\/< @ref Offered IP from DHCP server$/;"	m	struct:__anond4c1b96c0208	typeref:typename:uint8_t[4]	file:

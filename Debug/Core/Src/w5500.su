@@ -1,0 +1,11 @@
+../Core/Src/w5500.c:66:10:checksum	40	static
+../Core/Src/w5500.c:93:10:htons	24	static
+../Core/Src/w5500.c:108:10:WIZCHIP_READ	32	static
+../Core/Src/w5500.c:138:10:WIZCHIP_WRITE	24	static
+../Core/Src/w5500.c:168:10:WIZCHIP_READ_BUF	40	static
+../Core/Src/w5500.c:199:10:WIZCHIP_WRITE_BUF	40	static
+../Core/Src/w5500.c:231:10:getSn_TX_FSR	32	static
+../Core/Src/w5500.c:249:10:getSn_RX_RSR	32	static
+../Core/Src/w5500.c:266:6:wiz_send_data	32	static
+../Core/Src/w5500.c:283:6:wiz_recv_data	32	static
+../Core/Src/w5500.c:301:6:wiz_recv_ignore	32	static

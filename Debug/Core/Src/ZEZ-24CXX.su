@@ -1,0 +1,10 @@
+../Core/Src/ZEZ-24CXX.c:27:10:bytestowrite	16	static
+../Core/Src/ZEZ-24CXX.c:34:6:EEPROM_Write	80	static
+../Core/Src/ZEZ-24CXX.c:63:6:float2Bytes	24	static
+../Core/Src/ZEZ-24CXX.c:78:7:Bytes2float	32	static
+../Core/Src/ZEZ-24CXX.c:95:6:EEPROM_Write_NUM	16	static
+../Core/Src/ZEZ-24CXX.c:104:7:EEPROM_Read_NUM	32	static
+../Core/Src/ZEZ-24CXX.c:114:6:write_eeprom	32	static
+../Core/Src/ZEZ-24CXX.c:124:9:read_eeprom	48	static
+../Core/Src/ZEZ-24CXX.c:135:6:EEPROM_Read	80	static
+../Core/Src/ZEZ-24CXX.c:158:6:EEPROM_PageErase	56	static
